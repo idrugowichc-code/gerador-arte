@@ -39,20 +39,18 @@
   .tab{background:var(--panel-2);border:1px solid var(--border);border-radius:8px;padding:7px 13px;font-size:13px;cursor:pointer;color:var(--txt-dim)}
   .tab.on{background:var(--accent);color:#04222a;font-weight:700;border-color:var(--accent)}
   .stage{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:14px}
-  #art{width:450px;background:linear-gradient(160deg,#f8fafb 0%,#eef3f5 100%);border-radius:16px;overflow:hidden;font-family:'Segoe UI',sans-serif;color:#0d2530}
-  .art-head{background:linear-gradient(135deg,#0e7c8a,#1fb6c4);padding:18px 22px;color:#fff}
+  #art{width:450px;background:#F7F7F9;border-radius:16px;overflow:hidden;font-family:'Segoe UI',sans-serif;color:#042326}
+  .art-head{padding:18px 22px;color:#fff}
   .art-head .brand{font-size:20px;font-weight:800;letter-spacing:.5px}
-  .art-head .tag{font-size:11.5px;opacity:.9;margin-top:2px;letter-spacing:.3px}
+  .art-head .tag{font-size:11.5px;opacity:.92;margin-top:2px;letter-spacing:.3px}
   .quad{display:grid;grid-template-columns:1fr 1fr;gap:2px;background:#dfe7ea;padding:2px}
   .cell{background:#fff;padding:16px 14px;min-height:182px;display:flex;flex-direction:column}
   .cell img{width:100%;height:104px;object-fit:contain;margin-bottom:9px}
   .cell .noimg2{width:100%;height:104px;background:#f0f4f5;border-radius:6px;margin-bottom:9px;display:grid;place-items:center;color:#b8c4c9;font-size:11px}
   .cell .pn{font-size:13.5px;font-weight:700;line-height:1.25;color:#0d2530}
-  .cell .pd{font-size:11px;color:#5a6b72;line-height:1.35;margin-top:5px;flex:1;outline:none;border-radius:4px}
-  .cell .pd:focus{background:#eaf6f8;box-shadow:0 0 0 2px var(--accent)}
-  .cell .pd[data-empty]::before{content:"Clique para escrever a descrição...";color:#b0bcc2;font-style:italic}
+  .cell .pd{font-size:10.5px;color:#fff;line-height:1.3;margin-top:6px;display:inline-block;padding:3px 9px;border-radius:20px;font-weight:600;align-self:flex-start}
   .cell.empty{align-items:center;justify-content:center;color:#b8c4c9;font-size:13px;border:2px dashed #d5dee1}
-  .art-foot{background:#0d2530;color:#fff;padding:13px 22px;display:flex;justify-content:center;align-items:center}
+  .art-foot{color:#fff;padding:13px 22px;display:flex;justify-content:center;align-items:center}
   .art-foot .site{font-size:12.5px;font-weight:600;letter-spacing:.3px}
   .actions{margin-top:16px;display:flex;gap:10px}
   .btn{flex:1;border:none;border-radius:10px;padding:13px;font-size:14px;font-weight:700;cursor:pointer;transition:.15s}
@@ -110,14 +108,25 @@
 const CATALOG_URL = 'catalogo.json'; // mesmo diretório do HTML no Pages
 
 const BRANDS = {
-  higiclear:{name:"HIGICLEAR",tag:"Higiene e limpeza profissional",site:"higiclear.com"},
-  hygibras:{name:"HYGIBRAS",tag:"Soluções em higienização",site:"hygibras.com"}
+  higiclear:{
+    name:"HIGICLEAR",tag:"Higiene e limpeza profissional",site:"higiclear.com",
+    headGrad:"linear-gradient(135deg,#0D7264,#08C5A9)",  // verde-petróleo -> turquesa
+    foot:"#042326",        // verde-quase-preto
+    bg:"#F7F7F9",          // off-white
+    badge:"#008536"        // verde (categoria)
+  },
+  hygibras:{
+    name:"HYGIBRAS",tag:"Soluções em higienização",site:"hygibras.com",
+    headGrad:"linear-gradient(135deg,#16205D,#0850A4)",  // marinho -> azul-royal
+    foot:"#161F24",        // grafite
+    bg:"#F1F2F4",          // cinza-claro
+    badge:"#0850A4"        // azul-royal (categoria)
+  }
 };
 
 let PRODUCTS = [];
 let selected = [];
 let brand = "higiclear";
-let editedText = {}; // texto ajustado na hora pelo vendedor {id: texto}
 
 async function boot(){
   try{
@@ -125,14 +134,14 @@ async function boot(){
     if(!r.ok) throw new Error('HTTP '+r.status);
     const data = await r.json();
     PRODUCTS = data.products || [];
-    if(data.updated){
-      const d = new Date(data.updated);
-      document.getElementById('updated').textContent = 'Atualizado: '+d.toLocaleDateString('pt-BR');
+    if(data.updated_at){
+      const d = new Date(data.updated_at);
+      document.getElementById('updated').textContent = 'Atualizado: '+d.toLocaleDateString('pt-BR')+' · '+PRODUCTS.length+' produtos';
     }
     const cats=[...new Set(PRODUCTS.map(p=>p.cat))].sort();
     const catSel=document.getElementById('cat');
     cats.forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;catSel.appendChild(o)});
-    renderCatalog(); renderArt();
+    renderCatalog(); applyBrand();
   }catch(e){
     document.getElementById('catalog').innerHTML =
       `<div class="err">Não foi possível carregar o catálogo (${e.message}).<br><br>
@@ -173,11 +182,8 @@ function renderArt(){
     if(p){
       cell.className='cell';
       const imgHtml=p.img?`<img src="${p.img}" crossorigin="anonymous">`:`<div class="noimg2">sem imagem</div>`;
-      const txt = editedText[p.id] !== undefined ? editedText[p.id] : (p.desc||'');
-      const ph = txt.trim()==='' ? ' data-empty="1"' : '';
-      cell.innerHTML=`${imgHtml}<div class="pn">${p.name}</div><div class="pd" contenteditable="true" data-id="${p.id}"${ph}>${txt}</div>`;
-      const pd=cell.querySelector('.pd');
-      pd.addEventListener('input',e=>{ editedText[p.id]=e.target.textContent; e.target.removeAttribute('data-empty'); });
+      const badge = BRANDS[brand].badge;
+      cell.innerHTML=`${imgHtml}<div class="pn">${p.name}</div><div class="pd" style="background:${badge}">${p.cat||''}</div>`;
     }else{ cell.className='cell empty'; cell.textContent='Produto '+(i+1); }
     quad.appendChild(cell);
   }
@@ -187,23 +193,27 @@ function renderArt(){
   btnGen.textContent = selected.length === 4 ? 'Gerar imagem (PNG)' : `Selecione 4 produtos (${selected.length}/4)`;
 }
 
-document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{
-  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));
-  t.classList.add('on'); brand=t.dataset.brand;
+function applyBrand(){
   const b=BRANDS[brand];
   document.getElementById('artBrand').textContent=b.name;
   document.getElementById('artTag').textContent=b.tag;
   document.getElementById('artSite').textContent=b.site;
+  document.getElementById('art').style.background=b.bg;
+  document.querySelector('.art-head').style.background=b.headGrad;
+  document.querySelector('.art-foot').style.background=b.foot;
+  renderArt(); // re-renderiza para atualizar a cor dos badges
+}
+document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{
+  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));
+  t.classList.add('on'); brand=t.dataset.brand;
+  applyBrand();
 });
 
 document.getElementById('search').oninput=renderCatalog;
 document.getElementById('cat').onchange=renderCatalog;
-document.getElementById('clear').onclick=()=>{selected=[];editedText={};renderCatalog();renderArt();};
+document.getElementById('clear').onclick=()=>{selected=[];renderCatalog();renderArt();};
 document.getElementById('gen').onclick=()=>{
-  // trava: todas as 4 descrições precisam estar preenchidas
-  const vazios=[...document.querySelectorAll('#quad .pd')].filter(el=>el.textContent.trim()==='');
   if(selected.length!==4){ alert('Selecione exatamente 4 produtos.'); return; }
-  if(vazios.length){ alert('Preencha a descrição de todos os 4 produtos antes de gerar.'); vazios[0].focus(); return; }
   const btn=document.getElementById('gen');
   btn.textContent='Gerando...'; btn.disabled=true;
   html2canvas(document.getElementById('art'),{scale:3,useCORS:true,backgroundColor:null}).then(canvas=>{
