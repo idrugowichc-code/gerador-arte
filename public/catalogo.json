@@ -1,0 +1,2574 @@
+{
+  "updated_at": "2026-06-16T13:23:13.476Z",
+  "count": 321,
+  "products": [
+    {
+      "id": 35880,
+      "name": "Optizyme Detergente Enzimático",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Conheça o Optizyme Detergente Enzimático O Optizyme Detergente Enzimático é um detergente multienzimático desenvolvido…",
+      "img": "img/optizyme-detergente-enzimatico.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/optizyme-detergente-enzimatico/"
+    },
+    {
+      "id": 35868,
+      "name": "Prax Desinfetante Multiuso",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Conheça o Prax Desinfetante Multiuso O Prax Desinfetante Multiuso foi desenvolvido para limpar, desinfetar e perfumar…",
+      "img": "img/prax-desinfetante-multiuso.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/prax-desinfetante-multiuso/"
+    },
+    {
+      "id": 35744,
+      "name": "Desinfetante Hospitalar Optigerm Oxikill Pronto Uso",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Conheça o Desinfetante Hospitalar Optigerm Oxikill Pronto Uso Optigerm Oxikill Pronto Uso é um desinfetante hospitalar…",
+      "img": "img/optigerm-oxikill-pronto-uso.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/optigerm-oxikill-pronto-uso/"
+    },
+    {
+      "id": 35581,
+      "name": "Prax Limpador para Carpetes",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Conheça o Prax Limpador para Carpetes Prax Limpador para Carpetes é um detergente concentrado, desenvolvido para a…",
+      "img": "img/prax-limpador-carpetes.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/prax-limpador-carpetes/"
+    },
+    {
+      "id": 35137,
+      "name": "Synd Sabonete Desengraxante",
+      "cat": "Desengraxantes",
+      "desc": "Synd Sabonete Desengraxante – Limpeza Pesada com Cuidado e Sustentabilidade O Synd Sabonete Desengraxante é a solução…",
+      "img": "img/sabonete-desengraxante-synd.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/sabonete-desengraxante-synd/"
+    },
+    {
+      "id": 1467,
+      "name": "Desinfetante Hospitalar para Superfícies Fixas e Artigos Não Críticos",
+      "cat": "Desinfetantes Hospitalares",
+      "desc": "Desinfetante Hospitalar Optigerm Ppt O desinfetante hospitalar para superfícies fixas e artigos não críticos Optigerm…",
+      "img": "img/optigerm-ppt.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetante-hospitalar/optigerm-ppt/"
+    },
+    {
+      "id": 2618,
+      "name": "Monitor de Limpeza-Alternativo ao Teste Limpeza ATP-Optiglow®Sf",
+      "cat": "Monitor de Limpeza",
+      "desc": "Monitor de Limpeza Alternativo ao Teste de Limpeza atp Monitor de limpeza é um especial Marcador Fluorescente de…",
+      "img": "img/monitor-de-limpeza-superficies-fixas-optiglow-sf.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/monitor-de-limpeza/monitor-de-limpeza-superficies-fixas-optiglow-sf/"
+    },
+    {
+      "id": 33293,
+      "name": "Dispenser Higiênico Rolão Duplo",
+      "cat": "Dispensers",
+      "desc": "Conheça o Dispenser Higiênico Rolão Duplo. O Dispenser Higiênico Rolão Duplo redefine os padrões ao oferecer uma…",
+      "img": "img/dispenser-higienico-rolao-duplo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-higienico-rolao-duplo/"
+    },
+    {
+      "id": 32947,
+      "name": "Toalheiro Interfolha Prime",
+      "cat": "Dispensers",
+      "desc": "Conheça o Toalheiro Interfolha Prime. O Toalheiro Interfolha Prime redefine os padrões ao oferecer uma solução…",
+      "img": "img/toalheiro-interfolha-prime.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/toalheiro-interfolha-prime/"
+    },
+    {
+      "id": 32944,
+      "name": "Toalheiro Autocorte Bobina Ultra",
+      "cat": "Dispensers",
+      "desc": "Conheça o Toalheiro Autocorte Bobina Ultra. O Toalheiro Autocorte Bobina Ultra redefine a experiência de higiene,…",
+      "img": "img/toalheiro-autocorte-bobina-ultra.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/toalheiro-autocorte-bobina-ultra/"
+    },
+    {
+      "id": 32939,
+      "name": "Dispenser Toalheiro Alavanca Ultra",
+      "cat": "Dispensers",
+      "desc": "Conheça o Dispenser Toalheiro Alavanca Ultra. Apresentamos o Dispenser Toalheiro Alavanca Ultra, uma solução inovadora…",
+      "img": "img/dispenser-toalheiro-alavanca-ultra.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-toalheiro-alavanca-ultra/"
+    },
+    {
+      "id": 32935,
+      "name": "Dispenser Higiênico Interfolha Ultra",
+      "cat": "Dispensers",
+      "desc": "Conheça o Dispenser Higiênico Interfolha Ultra. O Dispenser Higiênico Interfolha Ultra é a escolha perfeita para…",
+      "img": "img/dispenser-higienico-interfolha-ultra.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-higienico-interfolha-ultra/"
+    },
+    {
+      "id": 32930,
+      "name": "Toalheiro Interfolha Mini Ultra",
+      "cat": "Dispensers",
+      "desc": "Conheça o Toalheiro Interfolha Mini Ultra. Apresentamos o Toalheiro Interfolha Mini Ultra, uma solução perfeita para…",
+      "img": "img/toalheiro-interfolha-mini-ultra.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/toalheiro-interfolha-mini-ultra/"
+    },
+    {
+      "id": 32922,
+      "name": "Dispenser Saboneteira Refil Ultra Spray ou Espuma",
+      "cat": "Dispensers",
+      "desc": "Conheça o Dispenser Saboneteira Refil Ultra Spray ou Espuma Introduzimos o Dispenser Saboneteira Refil Ultra Spray ou…",
+      "img": "img/dispenser-saboneteira-refil-ultra.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-saboneteira-refil-ultra/"
+    },
+    {
+      "id": 32914,
+      "name": "Dispenser Toalheiro Interfolha Ultra",
+      "cat": "Dispensers",
+      "desc": "Conheça o Dispenser Toalheiro Interfolha Ultra Apresentamos o Dispenser Toalheiro Interfolha Ultra, uma escolha…",
+      "img": "img/dispenser-toalheiro-interfolha-ultra.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-toalheiro-interfolha-ultra/"
+    },
+    {
+      "id": 32901,
+      "name": "Toalheiro Auto Corte Compacto Ultra",
+      "cat": "Dispensers",
+      "desc": "Conheça o Toalheiro Auto Corte Compacto Ultra. Apresentamos o Toalheiro Auto Corte Compacto Ultra, uma solução…",
+      "img": "img/toalheiro-auto-corte-compacto-ultra.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/toalheiro-auto-corte-compacto-ultra/"
+    },
+    {
+      "id": 32896,
+      "name": "Dispenser Higiênico Rolo Ultra",
+      "cat": "Dispensers",
+      "desc": "Conheça o Dispenser Higiênico Rolo Ultra Apresentamos o Dispenser Higiênico Rolo Ultra, uma adição sofisticada e…",
+      "img": "img/dispenser-higienico-rolo-ultra.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-higienico-rolo-ultra/"
+    },
+    {
+      "id": 32313,
+      "name": "Prax Limpador Geral de Ambientes",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Conheça o Prax Limpador Geral Elaborado com peróxido estabilizado, Prax Limpador Geral proporciona um desempenho…",
+      "img": "img/prax-limpador-geral.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/prax-limpador-geral/"
+    },
+    {
+      "id": 32752,
+      "name": "Prax Detergente de uso geral neutro",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Conheça o Prax Detergente de uso geral neutro O Prax Detergente de uso geral neutro foi fabricado para a limpeza…",
+      "img": "img/prax-detergente-uso-geral-neutro.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/prax-detergente-uso-geral-neutro/"
+    },
+    {
+      "id": 32749,
+      "name": "Prax impermeabilizante acrílico",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Conheça o Prax Impermeabilizante acrílico O Prax Impermeabilizante Acrílico proporciona pisos seguros, protegidos e…",
+      "img": "img/prax-impermeabilizante-acrilico.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/prax-impermeabilizante-acrilico/"
+    },
+    {
+      "id": 32744,
+      "name": "Prax Limpador de pisos",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Conheça o Prax Limpador de Pisos O Prax Limpador de Pisos, remove impurezas profundas sem deixar vestígios ou resíduos,…",
+      "img": "img/prax-limpador-pisos.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/prax-limpador-pisos/"
+    },
+    {
+      "id": 32741,
+      "name": "Prax Desengraxante para limpeza pesada",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Conheça o Prax Desengraxante para limpeza pesada O Prax Desengraxante para limpeza pesada é um produto concentrado,…",
+      "img": "img/prax-desengraxante-limpeza-pesada.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/prax-desengraxante-limpeza-pesada/"
+    },
+    {
+      "id": 32755,
+      "name": "Prax Removedor Desincrustante",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Conheça o Prax Removedor Desincrustante O Prax Removedor Desincrustante proporciona uma solução 2 em 1, combinando…",
+      "img": "img/prax-removedor-desincrustante.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/prax-removedor-desincrustante/"
+    },
+    {
+      "id": 5154,
+      "name": "Suporte Álcool Beira Leito Opticare",
+      "cat": "Dispensers",
+      "desc": "Suporte de álcool beira leito para Opticare IHS Desk Em suma, este Suporte de álcool beira leito compacto foi…",
+      "img": "img/suporte-de-alcool-em-gel-opticare-ihs.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/suporte-de-alcool-em-gel-opticare-ihs/"
+    },
+    {
+      "id": 6710,
+      "name": "Desincrustante Ácido Polichem - Uso Profissional",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "O Que é o Desincrustante Ácido? O Desincrustante Ácido Polichem é um produto químico ácido concentrado , formulado à…",
+      "img": "img/desincrustante-acido.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desincrustante-acido/"
+    },
+    {
+      "id": 31614,
+      "name": "Desinfetante Peracético - Garra Perax",
+      "cat": "Desinfetantes Hospitalares",
+      "desc": "Desinfetante Peracético - Garra Perax: Garra Perax é um desinfetante de alto nível à base de ácido peracético. É…",
+      "img": "img/peracetico.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetante-hospitalar/peracetico/"
+    },
+    {
+      "id": 8829,
+      "name": "Rolo de Papel Higiênico Industrial - 1732",
+      "cat": "Papel Higiênico",
+      "desc": "Rolo de Papel Higiênico Industrial ou Rolo Jumbo O nosso Rolo de Papel Higiênico Industrial, tipo Jumbo de 400 metros,…",
+      "img": "img/rolo-de-papel-higienico.webp",
+      "link": "https://www.higiclear.com/produto/papel-higienico/rolo-de-papel-higienico/"
+    },
+    {
+      "id": 27062,
+      "name": "Copo Descartavel Biodegradavel",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Copo descartavel biodegradavel Copo descartavel biodegradavel transparente de 180ml - Caixa com 2500 unidades Sobre o…",
+      "img": "img/copo-descartavel-biodegradavel.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/copo-descartavel-biodegradavel/"
+    },
+    {
+      "id": 27055,
+      "name": "Gerador de espuma manual - EasyFoamer",
+      "cat": "Diluidores",
+      "desc": "Gerador de Espuma Manual - EasyFoamer O EASYFOAMER é um gerador de espuma industrial que vai facilitar a aplicação e…",
+      "img": "img/gerador-de-espuma.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/diluidores/gerador-de-espuma/"
+    },
+    {
+      "id": 26944,
+      "name": "Toalheiro Eletronico Papel Toalha Bobina - OptiPaper",
+      "cat": "Dispensers",
+      "desc": "Toalheiro eletronico para Papel Toalha Bobina O toalheiro eletrônico para papel toalha bobina é o novo dispensador da…",
+      "img": "img/toalheiro-eletronico.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/toalheiro-eletronico/"
+    },
+    {
+      "id": 26787,
+      "name": "Limpador de Vidros - Conheça os melhores acessórios",
+      "cat": "Limpador de vidro",
+      "desc": "Limpador de Vidros O Lavador de Vidros é composto por um cabo, um prolongador e a luva de acrílico que possibilita alta…",
+      "img": "img/limpador-de-vidros.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/limpa-vidro/limpador-de-vidros/"
+    },
+    {
+      "id": 9252,
+      "name": "Lençol Descartavel para Maca 100% Celulose Virgem - 569",
+      "cat": "Material Hospitalar",
+      "desc": "Lençol Descartavel para Maca O Lençol Descartavel para Maca é um produto não estéril fabricado em fibras celulósicas…",
+      "img": "img/lencol-descartavel-para-maca.webp",
+      "link": "https://www.higiclear.com/produto/material-hospitalar/lencol-descartavel-para-maca/"
+    },
+    {
+      "id": 2628,
+      "name": "Monitor de Limpeza - Optiglow® HM",
+      "cat": "Monitor de Limpeza",
+      "desc": "O monitor de limpeza Optiglow® HM foi formulado para treinamento e campanhas de incentivo de higiene das mãos. Monitor…",
+      "img": "img/monitor-de-limpeza-optiglow-hm.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/monitor-de-limpeza/monitor-de-limpeza-optiglow-hm/"
+    },
+    {
+      "id": 1493,
+      "name": "Desinfetante Bactericida Garra Oxiativo Pronto-Uso.",
+      "cat": "Desinfetantes",
+      "desc": "Desinfetante Bactericida - Garra Oxiativo Pronto Uso O Desinfetante Bactericida Garra Oxiativo pronto-uso é um poderoso…",
+      "img": "img/peroxido-hidrogenio-garra-pronto-uso.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/peroxido-hidrogenio-garra-pronto-uso/"
+    },
+    {
+      "id": 1566,
+      "name": "Cera liquida incolor - Polish Top-coat de 5 Litros",
+      "cat": "Cera Piso",
+      "desc": "Cera Liquida Incolor - Acrílica Polish Top-Coat Em suma, a Cera Liquida Incolor é acrílica. Sua marca, Polish Top-Coat…",
+      "img": "img/polish-top-coat-auto-brilho.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/polish-top-coat-auto-brilho/"
+    },
+    {
+      "id": 1554,
+      "name": "Cera de Acabamento - Genius 5 Litros",
+      "cat": "Cera Piso",
+      "desc": "Cera Piso Genius Acabamento Em suma a Genius Acabamento é uma cera de altíssimo nível de brilho , que proporciona…",
+      "img": "img/genius-acabamento-piso.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/genius-acabamento-piso/"
+    },
+    {
+      "id": 4817,
+      "name": "Desinfetante Garra Oxiativo - Peroxy - Oleak",
+      "cat": "Desinfetantes",
+      "desc": "Desinfetante Garra Oxiativo - Peroxy Oleak Em suma, o Garra Oxiativo é um poderoso desinfetante e limpador geral…",
+      "img": "img/desinfetante-garra-oxiativo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/desinfetante-garra-oxiativo/"
+    },
+    {
+      "id": 1584,
+      "name": "Cera Acrilica Impermeabilizante - Vorax Ultra de 5 Litros da Oleak",
+      "cat": "Cera Piso",
+      "desc": "Cera Acrilica Impermeabilizante - Vorax Ultra Em suma, esta cera acrilica impermeabilizante para pisos Vorax Ultra tem…",
+      "img": "img/vorax-ultra.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/vorax-ultra/"
+    },
+    {
+      "id": 1572,
+      "name": "Cera Hospitalar Simplex de 5 Litros - Oleak",
+      "cat": "Cera Piso",
+      "desc": "Cera Hospitalar Simplex Em suma, a Cera Hospitalar Simples, conhecida como Simplex Hospitalar, possui baixo odor,…",
+      "img": "img/simplex-hospitalar-2-em-1.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/simplex-hospitalar-2-em-1/"
+    },
+    {
+      "id": 1570,
+      "name": "Cera Antiderrapante Acrílica Simplex 2 em 1 - 5 litros",
+      "cat": "Cera Piso",
+      "desc": "Cera Antiderrapante - Selador e Acabamento 2 em 1 Em suma, o a Cera Antiderrapante Simplex 2x1 é um produto superior,…",
+      "img": "img/simplex-2-em-1.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/simplex-2-em-1/"
+    },
+    {
+      "id": 10500,
+      "name": "Carro Funcional de Limpeza",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Carro Funcional de Limpeza: Otimize a Limpeza Profissional da Sua Empresa! O carro funcional de limpeza é um…",
+      "img": "img/carro-funcional.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/carro-funcional/"
+    },
+    {
+      "id": 9970,
+      "name": "Dispenser de Sabonete Automático - 1 Litro - BR66",
+      "cat": "Dispensers",
+      "desc": "Dispenser de Sabonete Automático Este dispenser funciona sem toque, dispensa automaticamente o sabonete em espuma,…",
+      "img": "img/dispenser-de-sabonete-automatico.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-de-sabonete-automatico/"
+    },
+    {
+      "id": 9804,
+      "name": "Dispenser de Álcool Spray e Sabonete",
+      "cat": "Dispensers",
+      "desc": "Dispenser de Álcool Spray e Sabonete Este dispenser de álcool spray faz parte da nova linha HygiSoap e apresenta um…",
+      "img": "img/dispenser-de-alcool.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-de-alcool/"
+    },
+    {
+      "id": 9801,
+      "name": "Álcool 70 Antisséptico - Mãos e Superfícies",
+      "cat": "Álcool Gel",
+      "desc": "Álcool 70 Antisséptico Este é o nosso Álcool 70 Antisséptico o nosso álcool spray ele é uma loção antisséptica para uso…",
+      "img": "img/alcool-70-antisseptico.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/alcool-gel/alcool-70-antisseptico/"
+    },
+    {
+      "id": 9590,
+      "name": "Dispenser Sabonete Líquido Hygisoap - BR09",
+      "cat": "Dispensers",
+      "desc": "Dispenser para Sabonete Líquido O dispenser para sabonete líquido da nova linha Hygisoap revolucionou o mercado com…",
+      "img": "img/dispenser-sabonete-liquido.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-sabonete-liquido/"
+    },
+    {
+      "id": 8938,
+      "name": "Saquinho Para Descarte de Absorvente Higiênico",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Saquinho para Descarte de Absorvente Higiênico O saquinho para descarte de absorvente é feito de plástico polietileno…",
+      "img": "img/saquinho-para-descarte-de-absorvente.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/saquinho-para-descarte-de-absorvente/"
+    },
+    {
+      "id": 8941,
+      "name": "Protetor de Assento Sanitário Descartável - 4351",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Protetor de Assento Sanitário Descartável O protetor de assento sanitário é 100% feito de celulose , material…",
+      "img": "img/protetor-de-assento-sanitario.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/protetor-de-assento-sanitario/"
+    },
+    {
+      "id": 8821,
+      "name": "Papel Higiênico Interfolha OptiPaper - 3015",
+      "cat": "Papel Higiênico",
+      "desc": "Papel Higiênico Interfolha Em suma, este produto é o nosso papel higiênico interfolha sendo um dos papéis higiênicos…",
+      "img": "img/papel-higienico-interfolha.webp",
+      "link": "https://www.higiclear.com/produto/papel-higienico/papel-higienico-interfolha/"
+    },
+    {
+      "id": 8827,
+      "name": "Rolo Papel Higiênico Folha Dupla - 0086",
+      "cat": "Papel Higiênico",
+      "desc": "Rolo de Papel Higiênico O nosso rolo de Papel Higiênico, que é popularmente conhecido como Papel Higiênico Rolinho, foi…",
+      "img": "img/rolo-papel-higienico.webp",
+      "link": "https://www.higiclear.com/produto/papel-higienico/rolo-papel-higienico/"
+    },
+    {
+      "id": 8825,
+      "name": "Papel Higiênico Rolão OptiPaper - FS 481733",
+      "cat": "Papel Higiênico",
+      "desc": "Papel Higiênico Rolão O nosso Papel Higiênico Rolão possui um alto poder de absorção e mais resistente , assim como uma…",
+      "img": "img/papel-higienico-rolao.webp",
+      "link": "https://www.higiclear.com/produto/papel-higienico/papel-higienico-rolao/"
+    },
+    {
+      "id": 8823,
+      "name": "Papel Higiênico Folha Dupla OptiPaper - 3027",
+      "cat": "Papel Higiênico",
+      "desc": "Papel Higiênico Folha Dupla O nosso produto Papel Higiênico Folha Dupla em rolo possui um alto poder de absorção e…",
+      "img": "img/papel-higienico-folha-dupla.webp",
+      "link": "https://www.higiclear.com/produto/papel-higienico/papel-higienico-folha-dupla/"
+    },
+    {
+      "id": 8861,
+      "name": "Dispenser de Papel Toalha OptiPaper - BR07",
+      "cat": "Dispensers",
+      "desc": "O Dispenser de Papel Toalha é o novo suporte da linha OptiPaper. Ele possui um sistema inovador para ser usado junto ao…",
+      "img": "img/dispenser-de-papel-toalha.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-de-papel-toalha/"
+    },
+    {
+      "id": 8878,
+      "name": "Porta Guardanapo Interfolhado OptiPaper - BR38",
+      "cat": "Dispensers",
+      "desc": "Porta Guardanapo ou Guardanapeira Nosso novo Porta Guardanapo tem um design moderno, compacto e prático. Conhecido…",
+      "img": "img/porta-guardanapo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/porta-guardanapo/"
+    },
+    {
+      "id": 8888,
+      "name": "Dispenser Protetor Assento Sanitário OptiPaper - BR61",
+      "cat": "Dispensers",
+      "desc": "Dispenser Protetor Assento Sanitário O Dispenser para Protetor de Assento Sanitário é ideal para ser usado em banheiros…",
+      "img": "img/dispenser-protetor-assento-sanitario.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-protetor-assento-sanitario/"
+    },
+    {
+      "id": 8867,
+      "name": "Dispenser Papel Higiênico Interfolhado OptiPaper - BR08",
+      "cat": "Dispensers",
+      "desc": "Dispenser Papel Higiênico Interfolhado O Dispenser de Papel Higiênico Interfolhado da nossa nova linha OptiPaper possui…",
+      "img": "img/dispenser-papel-higienico-interfolhado.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-papel-higienico-interfolhado/"
+    },
+    {
+      "id": 8886,
+      "name": "Dispenser Saquinho Absorvente OptiPaper - BR78",
+      "cat": "Dispensers",
+      "desc": "Dispenser Saquinho Absorvente O dispenser saquinho absorvente foi desenvolvido em um material plástico de alta…",
+      "img": "img/dispenser-saquinho-absorvente.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-saquinho-absorvente/"
+    },
+    {
+      "id": 8853,
+      "name": "Dispenser para Papel Toalha - BR64",
+      "cat": "Dispensers",
+      "desc": "Dispenser para Papel Toalha Bobina O Dispenser para Papel Toalha Bobina é o suporte da linha OptiPaper. Possui um…",
+      "img": "img/dispenser-para-papel-toalha.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-para-papel-toalha/"
+    },
+    {
+      "id": 8873,
+      "name": "Dispenser Papel Higiênico OptiPaper - BR19",
+      "cat": "Dispensers",
+      "desc": "Dispenser de Papel Higiênico O Dispenser de Papel Higiênico pertence a nova linha de dispensers da OptiPaper. Este…",
+      "img": "img/dispenser-papel-higienico.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-papel-higienico/"
+    },
+    {
+      "id": 8882,
+      "name": "Dispenser Papel Toalha de Mesa Optipaper - BR01",
+      "cat": "Dispensers",
+      "desc": "Dispenser Papel Toalha de Mesa O novo Dispenser para Papel Toalha de Mesa da OptiPaper é o mais compacto e moderno…",
+      "img": "img/dispenser-papel-toalha-de-mesa.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-papel-toalha-de-mesa/"
+    },
+    {
+      "id": 8857,
+      "name": "Dispenser Papel Toalha Bobina Alavanca OptiPaper - BR35",
+      "cat": "Destaque",
+      "desc": "Dispenser Papel Toalha Bobina O Dispenser para Papel Toalha Bobina é o novo dispositivo da linha OptiPaper. Ele fornece…",
+      "img": "img/dispenser-papel-toalha-bobina.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dispenser-papel-toalha-bobina/"
+    },
+    {
+      "id": 8803,
+      "name": "Papel Toalha Rolo Folha Dupla - 3473",
+      "cat": "Papel Toalha",
+      "desc": "Papel Toalha Rolo Papel Toalha Rolo possui coloração extra branca, maior maciez e superabsorvente . Com apenas duas…",
+      "img": "img/papel-toalha-rolo.webp",
+      "link": "https://www.higiclear.com/produto/papel-toalha/papel-toalha-rolo/"
+    },
+    {
+      "id": 8810,
+      "name": "Toalha de Papel Interfolha Folha Simples - 1929",
+      "cat": "Papel Toalha",
+      "desc": "Toalha de Papel Interfolhado Toalha de Papel Interfolhado possui folha de camada única ou simples , coloração extra…",
+      "img": "img/toalha-interfolha-folha-simples.webp",
+      "link": "https://www.higiclear.com/produto/papel-toalha/toalha-interfolha-folha-simples/"
+    },
+    {
+      "id": 8807,
+      "name": "Toalha de Papel Interfolha OptiPaper - 3016",
+      "cat": "Papel Toalha",
+      "desc": "Toalha de Papel A nossa Toalha de Papel possui em sua formatação uma coloração extra branca e que, além de proporcionar…",
+      "img": "img/toalha-de-papel.webp",
+      "link": "https://www.higiclear.com/produto/papel-toalha/toalha-de-papel/"
+    },
+    {
+      "id": 8805,
+      "name": "Toalha de Papel Interfolha OptiPaper - 3908",
+      "cat": "Papel Toalha",
+      "desc": "Papel Interfolha O Papel Interfolha 3908 OptiPaper é um papel toalha da nossa linha Ultra de folha simples com alta…",
+      "img": "img/papel-interfolha.webp",
+      "link": "https://www.higiclear.com/produto/papel-toalha/papel-interfolha/"
+    },
+    {
+      "id": 8818,
+      "name": "Papel Toalha Bobina OptiPaper - 3235",
+      "cat": "Complementos",
+      "desc": "Papel Toalha Bobina O nosso papel toalha bobina folha simples é um produto que possui grande autonomia para secagem das…",
+      "img": "img/papel-toalha-bobina.webp",
+      "link": "https://www.higiclear.com/produto/papel-toalha/papel-toalha-bobina/"
+    },
+    {
+      "id": 8816,
+      "name": "Papel Toalha Rolão OptiPaper - 2430",
+      "cat": "Papel Toalha",
+      "desc": "Papel toalha Rolão O nosso papel toalha rolão possui uma folha simples e de grande autonomia para secagem das suas mãos…",
+      "img": "img/papel-toalha-rolao.webp",
+      "link": "https://www.higiclear.com/produto/papel-toalha/papel-toalha-rolao/"
+    },
+    {
+      "id": 8851,
+      "name": "Guardanapo Branco Nobby FS 21x22cm - 0101",
+      "cat": "Guardanapos",
+      "desc": "Do que é feito o guardanapo branco? Primeiramente, o nosso Guardanapo Branco Nobby FS 21x22cm - 0101 possui a sua…",
+      "img": "img/guardanapo-branco.webp",
+      "link": "https://www.higiclear.com/produto/guardanapos/guardanapo-branco/"
+    },
+    {
+      "id": 8846,
+      "name": "Guardanapo de Cozinha Nobby FD 22 x 20,5 cm - 0120",
+      "cat": "Guardanapos",
+      "desc": "Guardanapo de Cozinha O nosso guardanapo de cozinha possui sua coloração muito branca, além de proporcionar maior…",
+      "img": "img/guardanapo-de-cozinha.webp",
+      "link": "https://www.higiclear.com/produto/guardanapos/guardanapo-de-cozinha/"
+    },
+    {
+      "id": 8844,
+      "name": "Guardanapo Mesa Nobby FS 30 x 31 cm - 0534",
+      "cat": "Guardanapos",
+      "desc": "Guardanapo de Mesa Este Guardanapo para Lanchonete possui alta absorção e maciez . Da mesma forma, combate o…",
+      "img": "img/guardanapo-mesa.webp",
+      "link": "https://www.higiclear.com/produto/guardanapos/guardanapo-mesa/"
+    },
+    {
+      "id": 8831,
+      "name": "Guardanapo de Mesa Nobby FD 21 x 22 cm - 0201",
+      "cat": "Guardanapos",
+      "desc": "Guardanapo de Mesa Este guardanapo de mesa é de altíssimo padrão. Possui coloração extra branca , maior maciez e…",
+      "img": "img/guardanapo-de-mesa.webp",
+      "link": "https://www.higiclear.com/produto/guardanapos/guardanapo-de-mesa/"
+    },
+    {
+      "id": 8213,
+      "name": "Desengraxante Neutro para Limpeza Pesada - Synd N 150",
+      "cat": "Desengraxantes",
+      "desc": "O que é o Desengraxante Neutro Synd N150 Em suma, o Synd N150 é um Desengraxante neutro de alta concentração, sendo…",
+      "img": "img/desengraxante-neutro.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desengraxante/desengraxante-neutro/"
+    },
+    {
+      "id": 2945,
+      "name": "Pano de Limpeza - OberTech Branco Liso",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Pano de limpeza- Obertech Branco Este pano de limpeza é disponibilizado pela Higiclear na cor branca, os panos da marca…",
+      "img": "img/pano-de-limpeza.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/pano-de-limpeza/"
+    },
+    {
+      "id": 7752,
+      "name": "Disco de Limpeza Bonnet - Limpeza de Carpetes",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Disco de Limpeza Bonnet O disco de limpeza bonnet, é uma almofada sintética e serve para limpeza de carpetes através de…",
+      "img": "img/disco-de-limpeza-bonnet.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/disco-de-limpeza-bonnet/"
+    },
+    {
+      "id": 5825,
+      "name": "Diluidor de Produtos de Limpeza Concentrado",
+      "cat": "Diluidores",
+      "desc": "Diluidores de Produtos de Limpeza para Máquinas de Lavar Louça Este produto é o nosso Diluidor de Produtos de Limpeza…",
+      "img": "img/diluidor-de-produtos-de-limpeza-para-maquinas-de-lavar-louca.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/diluidores/diluidor-de-produtos-de-limpeza-para-maquinas-de-lavar-louca/"
+    },
+    {
+      "id": 5989,
+      "name": "Totem Álcool Gel - Acionamento Mecânico",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Totem Álcool Gel Em suma, o Totem Álcool Gel Hand Station Acionamento Mecânico é bonito e elegante e prático podendo…",
+      "img": "img/totem-alcool-gel.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/totem-alcool-gel/"
+    },
+    {
+      "id": 5855,
+      "name": "Campo Operatório 45x50 - Não Estéril - Nobre",
+      "cat": "Produtos Hospitalares",
+      "desc": "Campo Operatório 45x50 Não Estéril - Nobre Em suma, o campo operatório é utilizado para absorver sangue e outros…",
+      "img": "img/campo-operatorio.webp",
+      "link": "https://www.higiclear.com/produto/produtos-hospitalares/campo-operatorio/"
+    },
+    {
+      "id": 5871,
+      "name": "Máscara Cirúrgica Descartável em TNT",
+      "cat": "Produtos Hospitalares",
+      "desc": "Máscara Cirúrgica Descartável, 3 camadas Em suma, a Máscara Cirúrgica Descartável, também conhecida como máscara…",
+      "img": "img/mascara-cirurgica-descartavel.webp",
+      "link": "https://www.higiclear.com/produto/produtos-hospitalares/mascara-cirurgica-descartavel/"
+    },
+    {
+      "id": 5865,
+      "name": "Compressa de Gaze - Não Estéril - Nobre Slim",
+      "cat": "Produtos Hospitalares",
+      "desc": "Compressa de Gaze Não Estéril Em suma, a Compressa de Gaze é utilizada em curativos e intervenções cirúrgicas, assim…",
+      "img": "img/compressa-de-gaze.webp",
+      "link": "https://www.higiclear.com/produto/produtos-hospitalares/compressa-de-gaze/"
+    },
+    {
+      "id": 5863,
+      "name": "Capote Cirúrgico - Manga Longa - Nobre",
+      "cat": "Produtos Hospitalares",
+      "desc": "Capote Cirúrgico Em suma, o capote cirúrgico é uma vestimenta hospitalar que resguarda o corpo do profissional. Ele é…",
+      "img": "img/capote-cirurgico.webp",
+      "link": "https://www.higiclear.com/produto/produtos-hospitalares/capote-cirurgico/"
+    },
+    {
+      "id": 5857,
+      "name": "Campo Operatório 23x25 - Não Estéril - Nobre",
+      "cat": "Produtos Hospitalares",
+      "desc": "Campo Operatório 23 x 25 Não Estéril Em suma o campo operatório é utilizado em um procedimento cirúrgico com a função…",
+      "img": "img/campo-operatorio-nao-esteril.webp",
+      "link": "https://www.higiclear.com/produto/produtos-hospitalares/campo-operatorio-nao-esteril/"
+    },
+    {
+      "id": 5850,
+      "name": "Lenço Umedecido Antisséptico - Blanco Wipe, sem perfume",
+      "cat": "Desinfetantes",
+      "desc": "Lenço Umedecido Antisséptico - Blanco Wipe sem perfume O Blanco Wipe Limpador Germicida é um excelente limpador…",
+      "img": "img/lenco-umedecido-blanco-inodoro.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/lenco-umedecido-blanco-inodoro/"
+    },
+    {
+      "id": 5823,
+      "name": "Lenço Desinfetante - Blanco Wipe - Fragrância Bamboo",
+      "cat": "Desinfetantes",
+      "desc": "Lenço Desinfetante Blanco Wipe - Limpador Germicida O Optigerm Wipe é um excelente lenço desinfetante limpador…",
+      "img": "img/lenco-desinfetante-blanco-wipe.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/lenco-desinfetante-blanco-wipe/"
+    },
+    {
+      "id": 5346,
+      "name": "Álcool gel 5 litros, Antisséptico para as mãos - All Clean",
+      "cat": "Álcool Gel",
+      "desc": "Álcool Gel 5 litros - All Clean Em suma, este Álcool Gel 5 litros possui uma fórmula balanceada que proporciona a…",
+      "img": "img/alcool-gel-5-litros.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/alcool-gel/alcool-gel-5-litros/"
+    },
+    {
+      "id": 5246,
+      "name": "Desinfetante Multiuso - Garra Oxiativo 4G",
+      "cat": "Desinfetantes",
+      "desc": "Desinfetante e limpador geral, super concentrado, com um diluidor automático na tampa. Indicado para a limpeza e…",
+      "img": "img/desinfetante-e-limpador-garra-oxiativo-4g.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/desinfetante-e-limpador-garra-oxiativo-4g/"
+    },
+    {
+      "id": 5157,
+      "name": "Borrifador com Pressão Prévia - Jet 2000",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Borrifador com Pressão Prévia Jet 2000 Em suma, este Borrifador com Pressão Prévia, conhecido também como Aplicador com…",
+      "img": "img/borrifador-com-pressao-jet-2000.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/borrifador-com-pressao-jet-2000/"
+    },
+    {
+      "id": 5114,
+      "name": "Suporte para Álcool em gel - Dosador Manual Opticare",
+      "cat": "Dispensers",
+      "desc": "Suporte para Álccol em gel Opticare – Suporte Hand Station Este Suporte Hand Station foi especialmente desenvolvido…",
+      "img": "img/suporte-para-alcool-em-gel-dosador-manual-opticare.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/suporte-para-alcool-em-gel-dosador-manual-opticare/"
+    },
+    {
+      "id": 5113,
+      "name": "Suporte para Álcool Gel Automático Hand Station",
+      "cat": "Álcool Gel",
+      "desc": "Suporte para Álcool Gel Automático – Suporte Hand Station O Suporte Hand Station foi especialmente desenvolvido para…",
+      "img": "img/suporte-para-alcool-gel-dispenser-automatico-new-eversoft.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/suporte-para-alcool-gel-dispenser-automatico-new-eversoft/"
+    },
+    {
+      "id": 5056,
+      "name": "Treinamento Para Equipe de Limpeza de Empresas.",
+      "cat": "Destaque",
+      "desc": "Treinamento para Equipe de Limpeza de Empresas. Os treinamentos para equipe de limpeza são fundamentais para garantir a…",
+      "img": "img/treinamento-para-equipe-de-limpeza.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/treinamento-para-equipe-de-limpeza/"
+    },
+    {
+      "id": 5054,
+      "name": "Etiquetas para Produtos de Limpeza - Identificação Visual",
+      "cat": "Destaque",
+      "desc": "Conheça nossa linha de adesivos e etiquetas educativas em conjunto com nossos produtos de limpeza e surpreenda-se como…",
+      "img": "img/identificacao-visual-etiquetas-para-produtos-de-limpeza.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/identificacao-visual-etiquetas-para-produtos-de-limpeza/"
+    },
+    {
+      "id": 4995,
+      "name": "Limpador Geral Garra 4G Desinfetante Multiuso",
+      "cat": "Desinfetantes",
+      "desc": "Desinfetante e limpador geral, super concentrado, com um diluidor automático na tampa. Indicado para a limpeza e…",
+      "img": "img/desinfetante-multiuso-e-limpador-geral-garra-facil-4g.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/desinfetante-multiuso-e-limpador-geral-garra-facil-4g/"
+    },
+    {
+      "id": 4981,
+      "name": "Kit de Limpeza - Sistema Express - Limpeza Rápida",
+      "cat": "Destaque",
+      "desc": "Kit de Limpeza - Sistema Express Em suma, o Sistema Express consiste em um conjunto de Kit de produtos de limpeza e…",
+      "img": "img/produtos-de-limpeza-rapida-sistema-express.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/multiuso/produtos-de-limpeza-rapida-sistema-express/"
+    },
+    {
+      "id": 4834,
+      "name": "Álcool 70 Hospitalar - As Opções Superiores",
+      "cat": "Desinfetantes Hospitalares",
+      "desc": "Desinfetante Optigerm: melhor que o Álcool 70 Hospitalar É possível encontrar no Google, inúmeros destaques negativos…",
+      "img": "img/desinfetante-hospitalar-optigerm-mais-eficiente-que-alcool-7.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetante-hospitalar/desinfetante-hospitalar-optigerm-mais-eficiente-que-alcool-70/"
+    },
+    {
+      "id": 4721,
+      "name": "Desengraxante Alcalino Industrial Synd 250- 1000 litros",
+      "cat": "Desengraxantes",
+      "desc": "Desengraxante Alcalino Industrial Synd O Synd 250 é um Desengraxante Alcalino e de alta concentração . Desta forma, é…",
+      "img": "img/desengraxante-industrial-synd-1000-litros.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desengraxante/desengraxante-industrial-synd-1000-litros/"
+    },
+    {
+      "id": 4719,
+      "name": "Pulverizador Multiuso Plástico 1L - Superpro Bettanin",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Pulverizador Multiuso Plástico - 1L Em suma, o Pulverizador Multiuso de 1 litro foi desenvolvido para uso profissional.…",
+      "img": "img/pulverizador-multiuso-plastico-1l-superpro-bettanin.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/pulverizador-multiuso-plastico-1l-superpro-bettanin/"
+    },
+    {
+      "id": 4698,
+      "name": "Detergente Neutro Best HyperC – Para Sistema Olik",
+      "cat": "Detergente",
+      "desc": "Detergente Neutro Best HyperC para Olik O Detergente Best HyperC é um detergente neutro concentrado , para uso…",
+      "img": "img/detergente-neutro-best-hyperc-para-sistema-olik.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/detergente-neutro-best-hyperc-para-sistema-olik/"
+    },
+    {
+      "id": 4696,
+      "name": "Detergente Multiuso Garra Oxiativo HyperC – Sistema Olik",
+      "cat": "Detergente",
+      "desc": "Detergente Multiuso Garra Oxiativo HyperC O Detergente Multiuso Garra Oxiativo HyperC é um excelente e poderoso…",
+      "img": "img/detergente-multiuso-garra-oxiativo-hyperc-sistema-olik.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/detergente-multiuso-garra-oxiativo-hyperc-sistema-olik/"
+    },
+    {
+      "id": 4694,
+      "name": "Desengraxante Líquido Synd HyperC – Sistema Olik",
+      "cat": "Desengraxantes",
+      "desc": "Desengraxante Líquido Synd HyperC O Desengraxante Líquido Synd HyperC é um produto alcalino, de alta concentração,…",
+      "img": "img/desengraxante-synd-hyperc-para-sistema-olik.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desengraxante/desengraxante-synd-hyperc-para-sistema-olik/"
+    },
+    {
+      "id": 4692,
+      "name": "Higienização hospitalar com Desinfetante Blanco HyperC – Sistema Olik",
+      "cat": "Desinfetantes",
+      "desc": "Higienização hospitalar com Desinfetante Blanco HyperC – Sistema Olik Em suma, a higienização hospitalar com o…",
+      "img": "img/desinfetante-blanco-hyperc-para-sistema-olik.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/desinfetante-blanco-hyperc-para-sistema-olik/"
+    },
+    {
+      "id": 4690,
+      "name": "Desinfetante Hospitalar Optigerm HyperC – Sistema Olik",
+      "cat": "Desinfetantes Hospitalares",
+      "desc": "Desinfetante Hospitalar Optigerm HyperC Em suma, o Desinfetante Hospitalar Optigerm ® HiperC é indicado para a limpeza…",
+      "img": "img/desinfetante-hospitalar-optigerm-hyperc-para-sistema-olik.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetante-hospitalar/desinfetante-hospitalar-optigerm-hyperc-para-sistema-olik/"
+    },
+    {
+      "id": 4688,
+      "name": "Desinfetante com Quaternário de Amônia - Optigerm HyperC",
+      "cat": "Desinfetantes Hospitalares",
+      "desc": "Desinfetante com Quaternário de Amônia PHMB - Optigerm HyperC Em suma, o Desinfetante Hospitalar com Quaternário de…",
+      "img": "img/desinfetante-hospitalar-optigerm-hyperc.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetante-hospitalar/desinfetante-hospitalar-optigerm-hyperc/"
+    },
+    {
+      "id": 4686,
+      "name": "Perox - Desinfetante Hospitalar OxiKill®",
+      "cat": "Desinfetantes Hospitalares",
+      "desc": "Perox - Desinfetante Hospitalar Oxikill Em suma, este Desinfetante com principio ativo de Perox ou Peróxido de…",
+      "img": "img/desinfetante-hospitalar-optigerm-oxikill-oleak.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetante-hospitalar/desinfetante-hospitalar-optigerm-oxikill-oleak/"
+    },
+    {
+      "id": 4684,
+      "name": "Pano Multiuso Branco 35g Slim – SuperPro Bettanin",
+      "cat": "Utensílios",
+      "desc": "Pano Multiuso Branco 35g Slim – SuperPro Bettanin Novo pano de limpeza descartável da SuperPro Bettanin, foi…",
+      "img": "img/pano-multiuso-branco-35g-slim-superpro-bettanin.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/pano-multiuso-branco-35g-slim-superpro-bettanin/"
+    },
+    {
+      "id": 4682,
+      "name": "Pano Multiuso Verde 35g Slim – SuperPro Bettanin",
+      "cat": "Limpeza por Cores",
+      "desc": "Pano Multiuso Verde 35g Slim – SuperPro Bettanin Novo pano de limpeza descartável da SuperPro Bettanin, foi…",
+      "img": "img/pano-multiuso-verde-35g-slim-superpro-bettanin.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/pano-multiuso-verde-35g-slim-superpro-bettanin/"
+    },
+    {
+      "id": 4681,
+      "name": "Pano Multiuso Laranja 35g Slim – SuperPro Bettanin",
+      "cat": "Limpeza por Cores",
+      "desc": "Pano Multiuso Laranja 35g Slim – SuperPro Bettanin Novo pano de limpeza descartável da SuperPro Bettanin, foi…",
+      "img": "img/pano-multiuso-laranja-35g-slim-superpro-bettanin.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/pano-multiuso-laranja-35g-slim-superpro-bettanin/"
+    },
+    {
+      "id": 4678,
+      "name": "Pano Multiuso Azul – 35 gramas",
+      "cat": "Utensílios",
+      "desc": "Pano Multiuso Azul 35g Slim – SuperPro Bettanin Novo pano de limpeza descartável de 35 gramas, foi desenvolvido para…",
+      "img": "img/pano-multiuso-azul-35g-slim-superpro-bettanin.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/pano-multiuso-azul-35g-slim-superpro-bettanin/"
+    },
+    {
+      "id": 4676,
+      "name": "Pulverizador manual com gatilho espuma e spray - 1L",
+      "cat": "Utensílios",
+      "desc": "Pulverizador manual com gatilho espuma e spray - 1L Este Pulverizador manual com gatilho de 1 litro foi desenvolvido…",
+      "img": "img/pulverizador-manual-com-gatilho-espuma-e-spray-1l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/pulverizador-manual-com-gatilho-espuma-e-spray-1l/"
+    },
+    {
+      "id": 4674,
+      "name": "Galão 5 litros de plástico para diluição de produtos de limpeza",
+      "cat": "Utensílios",
+      "desc": "Galão 5 litros Galão plástico com capacidade de 5 litros de líquidos. Ele é especialmente destinado ao acondicionamento…",
+      "img": "img/galao-5-litros-de-plastico-para-diluicao-de-produtos-de-limp.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/galao-5-litros-de-plastico-para-diluicao-de-produtos-de-limpeza/"
+    },
+    {
+      "id": 4672,
+      "name": "Diluidor de Produtos de Limpeza",
+      "cat": "Diluidores",
+      "desc": "Diluidor de Produtos de Limpeza Concentrado Em suma, este tipo de diluidor é indicado para ambientes com alto volume de…",
+      "img": "img/diluidor-de-produtos-de-limpeza-concentrados.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/diluidores/diluidor-de-produtos-de-limpeza-concentrados/"
+    },
+    {
+      "id": 4670,
+      "name": "Limpa Inox Azulim 500ml - Restaurador de brilho",
+      "cat": "Detergente",
+      "desc": "Limpa Aço Inox - Azulim Em suma, este Limpa Aço Inox é indicado para a limpeza de todas superfícies de aço-inox ,…",
+      "img": "img/limpa-inox-azulim-500ml-restaurador-de-brilho.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/limpa-inox-azulim-500ml-restaurador-de-brilho/"
+    },
+    {
+      "id": 4210,
+      "name": "Creme Protetor para as mãos  - New Eversoft",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Creme protetor New Eversoft O Creme Protetor e Hidratante New Eversoft, forma uma fina camada de proteção sobre a pele,…",
+      "img": "img/creme-protetor-new-eversoft.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/creme-protetor-new-eversoft/"
+    },
+    {
+      "id": 4236,
+      "name": "Impressora 3D de Produtos de Limpeza Profissional",
+      "cat": "Diluidores",
+      "desc": "Impressora 3D de Produtos de Limpeza Em suma, a Olik® é uma mini fábrica portátil de produtos profissionais de higiene…",
+      "img": "img/impressora-3d-de-produtos-de-limpeza-profissional.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/diluidores/impressora-3d-de-produtos-de-limpeza-profissional/"
+    },
+    {
+      "id": 4240,
+      "name": "Sabonete Desengraxante New Eversoft",
+      "cat": "Desengraxantes",
+      "desc": "Sabonete Desengraxante - New Eversoft Sabonete Desengraxante para mãos, conhecido também como New Eversoft Sabonete…",
+      "img": "img/sabonete-desengraxante-new-eversoft.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/sabonete-desengraxante-new-eversoft/"
+    },
+    {
+      "id": 4273,
+      "name": "Cloro Gel Garra Chlor Oleak – 5 Litros.",
+      "cat": "Desinfetantes",
+      "desc": "Cloro Gel Garra Chlor Confira nossa coleção de vídeos com modos de uso do Garra Chlor clicando aqui . Cloro gel Garra…",
+      "img": "img/cloro-gel-garra-chlor-5-litros.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/cloro-gel-garra-chlor-5-litros/"
+    },
+    {
+      "id": 4173,
+      "name": "Rodo de alumínio 40 e 60 cm com cabo",
+      "cat": "Destaque",
+      "desc": "Rodo de Alumínio Este Rodo de alumínio para limpeza, possui duas medidas: 40cm e 60 cm e foi especialmente desenvolvido…",
+      "img": "img/rodo-de-aluminio.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/rodo-de-aluminio/"
+    },
+    {
+      "id": 4028,
+      "name": "Cloro em Gel Garra Chlor – 5 Litros",
+      "cat": "Clorado",
+      "desc": "Cloro em Gel Garra Clor O cloro em gel Garra Chlor é um poderoso limpador & desinfetante à base de cloro concentrado.…",
+      "img": "img/cloro-em-gel-garra-chlor-5-litros.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/clorado/cloro-em-gel-garra-chlor-5-litros/"
+    },
+    {
+      "id": 3740,
+      "name": "Desinfetante Clorado – Hipoclorito de Sódio - Kitch Care®",
+      "cat": "Clorado",
+      "desc": "Hipoclorito de Sódio é um grande aliado na desinfecção de alimentos e superfícies em cozinhas industriais.",
+      "img": "img/desinfetante-clorado-kitch-care.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/desinfetante-clorado-kitch-care/"
+    },
+    {
+      "id": 3537,
+      "name": "Totem para álcool gel Dispenser Automático, Opticare SS Scrub",
+      "cat": "Dispensers",
+      "desc": "Dispenser para Álcool Gel Automático – Suporte Hand Station O Totem para álcool gel Hand Station foi especialmente…",
+      "img": "img/hand-station-pre-cirurgico-opticare-ss.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/hand-station-pre-cirurgico-opticare-ss/"
+    },
+    {
+      "id": 3535,
+      "name": "Dispenser para Álcool Gel Automático - Antisséptico",
+      "cat": "Álcool Gel",
+      "desc": "Conheça esse e outros modelos de dispensador automático de álcool gel e álcool espuma.",
+      "img": "img/dosador-antisseptico-pre-cirurgico-opticare-ss.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dosador-antisseptico-pre-cirurgico-opticare-ss/"
+    },
+    {
+      "id": 3519,
+      "name": "Escova de Assepsia X Sabonete Opticare® Pré-Cirúrgico SS",
+      "cat": "Álcool Gel",
+      "desc": "Escova de Assepsia X Sabonete Opticare® Pré-Cirúrgico Em suma, o Sabonete Opticare SS Scrub foi especificamente…",
+      "img": "img/sabonete-antisseptico-escova.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/sabonete-antisseptico-escova/"
+    },
+    {
+      "id": 3495,
+      "name": "O que é FreeCô Pro - Bloqueador de odores",
+      "cat": "FreeCô Bloqueador de Odores",
+      "desc": "FreeCô: o primeiro bloqueador de odores sanitários do Brasil. O que é FreeCô Pro ? FreeCô Pro é um produto inovador no…",
+      "img": "img/freeco-pro-bloqueador-de-odores.webp",
+      "link": "https://www.higiclear.com/produto/freeco/freeco-pro-bloqueador-de-odores/"
+    },
+    {
+      "id": 3450,
+      "name": "Álcool em Gel de bolsa, Antisséptico com Hidratante",
+      "cat": "Álcool Gel",
+      "desc": "Álcool em Gel de bolsa com Hidratante New Eversoft Gel Hidratante é um álcool gel 70%, conhecido como new eversoft…",
+      "img": "img/antisseptico-instantaneo-hidratante-pocket.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/alcool-gel/antisseptico-instantaneo-hidratante-pocket/"
+    },
+    {
+      "id": 3448,
+      "name": "Álcool em Gel Antisséptico com Hidratante de mesa",
+      "cat": "Álcool Gel",
+      "desc": "Álcool em gel New Eversoft Hidratante para mesa New Eversoft Gel Hidratante é um álcool gel 70%, conhecido como new…",
+      "img": "img/antisseptico-instantaneo-hidratante-para-mesa.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/alcool-gel/antisseptico-instantaneo-hidratante-para-mesa/"
+    },
+    {
+      "id": 3252,
+      "name": "Fibra de Limpeza Leve Azul - SuperPro Bettanin",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Fibra de Limpeza Leve - Azul Em suma, esta Fibra de Limpeza leve é indicada para sujeiras de menor densidade . Desta…",
+      "img": "img/fibra-limpeza-leve-azul.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/fibra-limpeza-leve-azul/"
+    },
+    {
+      "id": 3250,
+      "name": "Fibra para Limpeza Leve Branca - SuperPro Bettanin",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Fibra Limpeza Leve Em suma, esta Fibra para Limpeza leve é indicada para sujeiras de menor densidade . Além disso,…",
+      "img": "img/fibra-limpeza-leve.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/fibra-limpeza-leve/"
+    },
+    {
+      "id": 3248,
+      "name": "Fibra de Limpeza Pesada - SuperPro Bettanin",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Fibra de Limpeza Pesada Em suma, esta Fibra de Limpeza Pesada é indicada para limpar sujeiras de maior densidade .…",
+      "img": "img/fibra-limpeza-pesada.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/fibra-limpeza-pesada/"
+    },
+    {
+      "id": 3246,
+      "name": "Lixeira Plástica com Pedal de 13,5L - Branca",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Lixeira Plástica com Pedal 13,5 Litros Em suma, esta Lixeira Plástica com pedal é fabricada de acordo com as normas da…",
+      "img": "img/lixeira-plastica-com-pedal-135l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/lixeira-plastica-com-pedal-135l/"
+    },
+    {
+      "id": 3244,
+      "name": "Lixeira plástica com pedal de 36 Litros - Branca",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Lixeira Plástica 36L Pedal para abertura de tampa Em suma, esta Lixeira Plástica com pedal é fabricada de acordo com as…",
+      "img": "img/lixeira-plastica-com-pedal-36l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/lixeira-plastica-com-pedal-36l/"
+    },
+    {
+      "id": 3241,
+      "name": "Mop Plano Spray Profissional - Compre Aqui",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Mop Plano Spray Profissional O Mop Plano Spray é indicado para a limpeza de todos tipos de pisos, combinando a limpeza…",
+      "img": "img/mop-plano-spray-profissional.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/mop-plano-spray-profissional/"
+    },
+    {
+      "id": 3240,
+      "name": "Mini mop algodão - SuperPro Bettanin",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Mini Mop Úmido Algodão - SuperPro Este Mini Mop Úmido Algodão possui grande capacidade de absorção e retenção de…",
+      "img": "img/mini-mop-algodao.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/mini-mop-algodao/"
+    },
+    {
+      "id": 3238,
+      "name": "Pá de lixo com cabo plástico",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Pá de lixo Plástica Cabo Longo Em suma, esta Pá de lixo plástica foi desenvolvida para tornar mais prática e fácil a…",
+      "img": "img/pa-de-lixo-com-cabo-plastico.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/pa-de-lixo-com-cabo-plastico/"
+    },
+    {
+      "id": 3236,
+      "name": "Pano de Microfibra Multiuso para Limpeza",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Conheça o Pano de Microfibra Multiuso O Pano de Microfibra Multiuso é um acessório desenvolvido para tornar a limpeza…",
+      "img": "img/pano-microfibra-verde.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/pano-microfibra-verde/"
+    },
+    {
+      "id": 3128,
+      "name": "Refil Mop Spray - SuperPro Bettanin",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Refil Mop Spray Profissional Em suma, o Refil Mop Spray é indicado para a utilização no Mop Spray Profissional , que é…",
+      "img": "img/refil-limpeza-pesada.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/refil-limpeza-pesada/"
+    },
+    {
+      "id": 3126,
+      "name": "Rodo Duplo de plástico resistente",
+      "cat": "Limpeza por Cores",
+      "desc": "Rodo Plástico Duplo Em suma, o Rodo Plástico Duplo foi especialmente desenvolvido para puxar líquidos e secar áreas,…",
+      "img": "img/rodo-duplo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/rodo-duplo/"
+    },
+    {
+      "id": 3124,
+      "name": "Rolo Tecido Não Tecido - Pano Multiuso Azul - Bettanin",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Pano Multiuso para Limpeza - 35g Em suma, este Pano Multiuso conhecido como rolo tecido não tecido foi especialmente…",
+      "img": "img/rolo-tecido-nao-tecido.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/rolo-tecido-nao-tecido/"
+    },
+    {
+      "id": 3122,
+      "name": "Tela para Mictório - Aromatizador de Ambiente",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Tela para mictório Esta Tela Para Mictório é feita em plástico em PVC de cor azul e outras cores. Ele foi especialmente…",
+      "img": "img/tela-para-mictorio.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/tela-para-mictorio/"
+    },
+    {
+      "id": 3120,
+      "name": "Vassoura angular com cabo",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Vassoura angular com cabo Vassoura angular com cabo em sua forma angular facilita a limpeza. Indicada pra varrer pó e…",
+      "img": "img/vassoura-angular-com-cabo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/vassoura-angular-com-cabo/"
+    },
+    {
+      "id": 3117,
+      "name": "Vassoura cerda macia - 60cm",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Vassoura cerda macia Vassoura com cerdas macias indicada para varrer poeira e partículas leves de superfícies lisas…",
+      "img": "img/vassoura-cerda-macia-60cm.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/vassoura-cerda-macia-60cm/"
+    },
+    {
+      "id": 3115,
+      "name": "Vassoura escova reta - 45cm",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Vassoura escova reta A Vassoura escova reta tem maior área de abrangência e indicada para varredura de sujidades de…",
+      "img": "img/vassoura-escova-reta-45cm.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/vassoura-escova-reta-45cm/"
+    },
+    {
+      "id": 3113,
+      "name": "Vassoura multiuso sem cabo",
+      "cat": "Limpeza por Cores",
+      "desc": "Vassoura multiuso sem cabo Vassoura multiuso plastica sem cabo. Cores: Azul, verde e vermelho. Conheça outros produtos,…",
+      "img": "img/vassoura-multiuso-sem-cabo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/vassoura-multiuso-sem-cabo/"
+    },
+    {
+      "id": 3111,
+      "name": "Balde plástico de 4 Litros coloridos",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Balde Plástico Colorido Em suma, este balde plástico de 4L é ideal para a limpeza de empresas, de todos os portes.…",
+      "img": "img/balde-4l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/balde-4l/"
+    },
+    {
+      "id": 3109,
+      "name": "Carrinho de Limpeza Mop com Balde Espremedor - 30L",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Carrinho de Limpeza Mop com Balde Espremedor - 30L Em suma este Carrinho de Limpeza Mop com Balde Espremedor é…",
+      "img": "img/carrinho-de-limpeza-mop-30l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/carrinho-de-limpeza-mop-30l/"
+    },
+    {
+      "id": 3107,
+      "name": "Balde de Limpeza com Espremedor para Mop",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Balde de Limpeza com Espremedor: Ideal para Limpeza Profissional. O Balde de Limpeza com Espremedor Duas Águas 30…",
+      "img": "img/balde-espremedor-2-aguas.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/balde-espremedor-2-aguas/"
+    },
+    {
+      "id": 3105,
+      "name": "Cesto para Produtos de Limpeza",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Cesto para produtos de limpeza Em suma, este cesto pra produtos de limpeza é ideal para o transporte de pequenos…",
+      "img": "img/cesta-para-nick-witty.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/cesta-para-nick-witty/"
+    },
+    {
+      "id": 3103,
+      "name": "Cesto Multiuso para Produtos de Limpeza - Verde",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Cesto multiuso Em suma, o cesto multiuso é indicado para organizar e separar os produtos e utensílios necessários para…",
+      "img": "img/cesto-multiuso-verde.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/cesto-multiuso-verde/"
+    },
+    {
+      "id": 3101,
+      "name": "Balde Espremedor Dry para Mop Plano",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Balde Espremedor Dry para Mop Plano O Espremedor Dry para Mop Plano é um acessório indispensável para quem busca…",
+      "img": "img/espremedor-dry-cinza-mop-plano.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/espremedor-dry-cinza-mop-plano/"
+    },
+    {
+      "id": 3099,
+      "name": "Pá coletora clip em plástico",
+      "cat": "Limpeza por Cores",
+      "desc": "Pá coletora clip Pá coletora clip articulada com haste e fixador vassoura, com este produto seu processo de limpeza…",
+      "img": "img/pa-coletora-clip-em-plastico.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/pa-coletora-clip-em-plastico/"
+    },
+    {
+      "id": 3097,
+      "name": "Refil antiestatico lamelo - 60cm",
+      "cat": "Acessórios de Limpeza",
+      "desc": "O Refil Antiestatico lamelo é embebido com óleo mineral que retém muito mais sujidade, fios de cabelos e pequenas…",
+      "img": "img/refil-antiestatico-lamelo-60cm.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/refil-antiestatico-lamelo-60cm/"
+    },
+    {
+      "id": 3096,
+      "name": "Refil blik microativa/safe - 40cm",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Refil blik microativa, perfeito para aplicação de limpadores e bactericidas, possui fios curtos e tem indicação…",
+      "img": "img/refil-blik-microativa-safe-40cm.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/refil-blik-microativa-safe-40cm/"
+    },
+    {
+      "id": 3094,
+      "name": "Refil blik microblue - 40cm",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Refil blik microblue, possui grande poder de secagem, possui fios curtos e tem indicação para superfícies com…",
+      "img": "img/refil-blik-microblue-40cm.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/refil-blik-microblue-40cm/"
+    },
+    {
+      "id": 3092,
+      "name": "Refil blik microfibra lopping - 40cm",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Refil blik microfibra, muito versátil, pode ser usado para limpeza seca, úmida ou molhada. Tem bom poder de secagem.…",
+      "img": "img/refil-blik-microfibra-lopping-40cm.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/refil-blik-microfibra-lopping-40cm/"
+    },
+    {
+      "id": 3090,
+      "name": "Refil microfibra clean glass - 30cm",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Ideal para limpeza de superfícies horizontais e verticais. Graças as excepcionais propriedades das microfibras em um…",
+      "img": "img/refil-microfibra-clean-glass-30cm.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/refil-microfibra-clean-glass-30cm/"
+    },
+    {
+      "id": 3088,
+      "name": "Esfregão Mop Limpeza",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Refil mop água em algodão, com banda amarela e outras cores. No âmbito de gestão de facilities, a manutenção e…",
+      "img": "img/esfregao-mop-limpeza.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/esfregao-mop-limpeza/"
+    },
+    {
+      "id": 3086,
+      "name": "Refil mop acrilico extra laco",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Refil mop Mop mop pó Extra Acrílico. medida Disponível nas mediadas: 80cm x 14cm; 61cm x 14cm; 46cm x 14cm . Conheça…",
+      "img": "img/refil-mop-acrilico-extra-laco.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/refil-mop-acrilico-extra-laco/"
+    },
+    {
+      "id": 3084,
+      "name": "Esfregão Mop - 40 cm",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Refil Mop Plano, muito versátil, pode ser usado para limpeza seca, úmida ou molhada. Tem bom poder de secagem. Possui…",
+      "img": "img/esfregao-mop-40-cm.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/esfregao-mop-40-cm/"
+    },
+    {
+      "id": 3082,
+      "name": "Suporte Lamelo sem cabo",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Suporte Lamelo sem cabo O Lamello é versátil pode ser utilizado em áreas como centro cirúrgico, UTI, pronto…",
+      "img": "img/suporte-lamelo-sem-cabo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/suporte-lamelo-sem-cabo/"
+    },
+    {
+      "id": 3080,
+      "name": "Suporte Mop Po extra",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Suporte Mop Po extra produzidos em polipropileno de alta resistência com estrutura em aço galvanizado. Foram…",
+      "img": "img/suporte-mop-po-extra.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/suporte-mop-po-extra/"
+    },
+    {
+      "id": 3078,
+      "name": "Cabo Colorido de Aluminio",
+      "cat": "Limpeza por Cores",
+      "desc": "Cabo Colorido de Alumínio - Manoplas Cabo resistente ao desgaste, pois não encurva . Proporciona ergonomia no punho…",
+      "img": "img/cabo-em-polipropileno-145cms.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/cabo-em-polipropileno-145cms/"
+    },
+    {
+      "id": 3076,
+      "name": "Espremedor O-Key",
+      "cat": "Limpeza por Cores",
+      "desc": "Espremedor O-Key Espremedor OKEY, de pressão lateral sem fundo , para utilização com todos tipos de mop,…",
+      "img": "img/espremedor-o-key.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/espremedor-o-key/"
+    },
+    {
+      "id": 3074,
+      "name": "Extensão telescópica",
+      "cat": "Limpador de vidro",
+      "desc": "Extensão telescópica Leves e resistentes podem ser operadas facilmente por qualquer pessoa . Diminuem o risco de…",
+      "img": "img/extensao-telescopica.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/limpa-vidro/extensao-telescopica/"
+    },
+    {
+      "id": 3072,
+      "name": "Rodo Seca Piso",
+      "cat": "Limpeza por Cores",
+      "desc": "Rodo Seca Piso com Lâmina de Borracha Branca – Eficiência, Higiene e Versatilidade O Rodo Seca Piso foi desenvolvido…",
+      "img": "img/rodo-seca-piso.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/rodo-seca-piso/"
+    },
+    {
+      "id": 3069,
+      "name": "Suporte blik system",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Base do sistema blik usado em sistemas pré umedecidos, com espremedor ou em spray para limpeza e desinfecção de…",
+      "img": "img/suporte-blik-system.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/suporte-blik-system/"
+    },
+    {
+      "id": 3067,
+      "name": "Suporte blik system com block",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Base do sistema blik usado em sistemas pré umedecidos, com espremedor ou em spray para limpeza e desinfecção de…",
+      "img": "img/suporte-blik-system-com-block.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/suporte-blik-system-com-block/"
+    },
+    {
+      "id": 3065,
+      "name": "Suporte econômico com velcro",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Base econômica para uso em sistemas pré umedecidos e spray. Para limpeza e desinfecção de superfícies (pisos,…",
+      "img": "img/suporte-economico-com-velcro.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/suporte-economico-com-velcro/"
+    },
+    {
+      "id": 3064,
+      "name": "Suporte wet system - 40cm",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Suporte Wet System utilizado para lavagem com Mop dotados de abas. O suporte foi estudado para evitar o contato com o…",
+      "img": "img/suporte-wet-system-40cm-2.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/suporte-wet-system-40cm-2/"
+    },
+    {
+      "id": 2976,
+      "name": "Suporte manual velcro - 30cm",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Suporte manual velcro para uso do refil clean glass e microblue, oferece alta produtividade na limpeza de várias…",
+      "img": "img/suporte-wet-system-40cm.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/suporte-wet-system-40cm/"
+    },
+    {
+      "id": 2974,
+      "name": "Dispenser para Copo Descartável 180ml a 200ml",
+      "cat": "Dispensers",
+      "desc": "Dispenser Copo Descartável de água - 180ml a 200 ml Em suma, o Dispenser Copo Descartável foi desenvolvido para…",
+      "img": "img/para-copo-de-agua.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/para-copo-de-agua/"
+    },
+    {
+      "id": 2968,
+      "name": "Saco de lixo: tamanhos, cores e gramaturas.",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "O que é e para que serve o saco de lixo? O famoso saco de lixo é um material de limpeza feito geralmente feito de…",
+      "img": "img/colorido.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/saco-de-lixo/colorido/"
+    },
+    {
+      "id": 2944,
+      "name": "Pano Wipper Limitech",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Pano Wipper Limitech O Pano Wipper Limitech é um ótimo acessório para limpeza . Tamanhos : 29x40cm - 35gr - 240mt -…",
+      "img": "img/pano-wipper-limitech.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/pano-wipper-limitech/"
+    },
+    {
+      "id": 2943,
+      "name": "Suporte para Wipper - 30mts",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Suporte para Wipper Suporte para pano Wipper de 30mts, muito pratico e discreto . Conheça outros produtos, clicando…",
+      "img": "img/suporte-para-wipper-30mts.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/suporte-para-wipper-30mts/"
+    },
+    {
+      "id": 2941,
+      "name": "Suporte para Wipper limitech - 300mts",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Suporte para Wipper limitech Suporte para pano Wipper Limtech de 300mts Conheça outros produtos, clicando aqui .…",
+      "img": "img/suporte-para-wipper-limitech-300mts.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/suporte-para-wipper-limitech-300mts/"
+    },
+    {
+      "id": 2939,
+      "name": "Mascara respiratória com válvula",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Mascara respiratória com válvula A mascara respiratória com válvula é uma mascara em formato concha-dobrável, dotada…",
+      "img": "img/mascara-respiratoria-com-valvula.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/mascara-respiratoria-com-valvula/"
+    },
+    {
+      "id": 2937,
+      "name": "Touca descartável sanfonada - Branca",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Touca branca descartável Touca descartável branca sanfonada tamanho único ajustável a qualquer tamanho de cabeça .…",
+      "img": "img/touca-descartavel-sanfonada-branca.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/touca-descartavel-sanfonada-branca/"
+    },
+    {
+      "id": 2932,
+      "name": "Copo descartável - Branco - 300ml",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Copo descartável Copo descartável de 300ml - Caixa com 2000 unidades . Conheça outros produtos, clicando aqui . Conheça…",
+      "img": "img/copo-descartavel-branco-300ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/copo-descartavel-branco-300ml/"
+    },
+    {
+      "id": 2930,
+      "name": "Copo descartável branco pacote - 50ml -",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Copo descartável branco pacote Copo descartável branco pacote de 50ml - Embalagem com 100 unidades . Conheça outros…",
+      "img": "img/copo-descartavel-branco-50ml-pacote.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/copo-descartavel-branco-50ml-pacote/"
+    },
+    {
+      "id": 2928,
+      "name": "Copo descartável branco - 50ml",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Copo descartável branco Copo descartável branco de 50ml - Caixa com 5000 unidades . Conheça outros produtos, clicando…",
+      "img": "img/copo-descartavel-branco-50ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/copo-descartavel-branco-50ml/"
+    },
+    {
+      "id": 2927,
+      "name": "Copo descartável - Branco - Cristalcopo",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Copo descartável disponível em 180ml e 200ml - Caixa com 2500 unidades. Totalplast Qualquer dúvida, ligue 0800-505-2888",
+      "img": "img/copo-descartavel-branco-cristalcopo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/copo-descartavel-branco-cristalcopo/"
+    },
+    {
+      "id": 2924,
+      "name": "Copo descartável - Branco - Totalplast",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Copo descartável - Branco Copo descartável disponível em 180ml e 200ml - Caixa com 2500 unidades . Totalplast Conheça…",
+      "img": "img/copo-descartavel-branco-200ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/copo-descartavel-branco-200ml/"
+    },
+    {
+      "id": 2922,
+      "name": "Vassoura limpa teto - sem cabo",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Vassoura limpa teto Vassoura limpa tetocom fios bicolores estabilizados em formato circular. Acompanha um exclusivo…",
+      "img": "img/vassoura-limpa-teto-sem-cabo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/vassoura-limpa-teto-sem-cabo/"
+    },
+    {
+      "id": 2920,
+      "name": "Vassoura nina - sem cabo",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Vassoura nina A Vassoura nina possui design arrojado, fios plumados, leve e compacta, produzida 100% em material…",
+      "img": "img/vassoura-nina-sem-cabo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/vassoura-nina-sem-cabo/"
+    },
+    {
+      "id": 2918,
+      "name": "Escova sanitária de nylon",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Escova sanitária que garante a correta limpeza do vaso sanitário. O formato da escova arredondado, contribui para que…",
+      "img": "img/escova-sanitaria-de-nylon.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/escova-sanitaria-de-nylon/"
+    },
+    {
+      "id": 2916,
+      "name": "Espanador de nylon",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Espanador de nylon Espanador de nylon Tamanho: 40cm. Conheça outros produtos, clicando aqui . Conheça nossos artigos,…",
+      "img": "img/espanador-de-nylon.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/espanador-de-nylon/"
+    },
+    {
+      "id": 2914,
+      "name": "Espanador de pena",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Espanador de pena Espanador de pena Tamanho: 30cm e 40cm. Conheça outros produtos, clicando aqui . Conheça nossos…",
+      "img": "img/espanador-de-pena.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/espanador-de-pena/"
+    },
+    {
+      "id": 2912,
+      "name": "Pá de lixo plástica - cabo longo",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Pá de lixo plástica - cabo longo Pá de Lixo plástica - cabo longo de 40 cm . Conheça outros produtos, clicando aqui .…",
+      "img": "img/pa-de-lixo-plastica-cabo-longo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/pa-de-lixo-plastica-cabo-longo/"
+    },
+    {
+      "id": 2910,
+      "name": "Vassoura palha 3 fios com cabo",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Vassoura palha 3 fios com cabo Vassoura palha 3 fios com cabo desenvolvida com material especial e reforçado. Conheça…",
+      "img": "img/vassoura-palha-3-fios-com-cabo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/vassoura-palha-3-fios-com-cabo/"
+    },
+    {
+      "id": 2908,
+      "name": "Vassoura noviça com capa - sem cabo",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Vassoura noviça com capa - sem cabo Vassoura noviça com capa - sem cabo possui cerdas macias, ideal para pisos lisos.…",
+      "img": "img/vassoura-novica-com-capa-sem-cabo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/vassoura-novica-com-capa-sem-cabo/"
+    },
+    {
+      "id": 2906,
+      "name": "Rodo plástico puxa seca sem cabo",
+      "cat": "Limpeza por Cores",
+      "desc": "Rodo plástico puxa seca sem cabo Rodo Plastico de 30 cm sem cabo, puxa e seca. Provido de saliências que agarram o…",
+      "img": "img/rodo-plastico-puxa-seca-sem-cabo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/rodo-plastico-puxa-seca-sem-cabo/"
+    },
+    {
+      "id": 2904,
+      "name": "Vassoura nylon sem cabo",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Vassoura nylon sem cabo Vassoura em nylon piaçanil com capa plástica - sem cabo. Conheça outros produtos, clicando…",
+      "img": "img/vassoura-nylon-sem-cabo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/vassoura-nylon-sem-cabo/"
+    },
+    {
+      "id": 2902,
+      "name": "Vassoura de pelo sem cabo",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Vassoura de pelo sem cabo Vassoura de pelo sem cabo. Tamanho: 60cm e 40cm Conheça outros produtos, clicando aqui .…",
+      "img": "img/vassoura-pelo-sem-cabo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/vassoura-pelo-sem-cabo/"
+    },
+    {
+      "id": 2882,
+      "name": "Vassoura prefeitura",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Vassoura Prefeitura Vassoura Prefeitura Piacava 2 furos sem cabo. Tamanho: 60cm e 40cm Também com fios de nylon e…",
+      "img": "img/vassoura-piacava.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/vassoura-piacava/"
+    },
+    {
+      "id": 2880,
+      "name": "Rodo plástico sem cabo",
+      "cat": "Limpeza por Cores",
+      "desc": "Rodo plástico sem cabo Rodo Plástico de sem cabo, puxa e seca. Provido de saliências que agarram o pano de limpeza e…",
+      "img": "img/rodo-plastico-sem-cabo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/rodo-plastico-sem-cabo/"
+    },
+    {
+      "id": 2878,
+      "name": "Escova plástico pezinho",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Escova plástica Escova no formato de pezinho com cerdas bicolores, resistentes e desing permitindo ótima aderência na…",
+      "img": "img/escova-plastico-pezinho.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/escova-plastico-pezinho/"
+    },
+    {
+      "id": 2874,
+      "name": "Sapólio radium cremoso - 300ml",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sapólio Radium Cremoso Em suma, o Sapólio Radium Cremoso foi especialmente desenvolvido para limpeza de cozinhas e…",
+      "img": "img/sapolio-radium-cremoso-300ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sapolio-radium-cremoso-300ml/"
+    },
+    {
+      "id": 2869,
+      "name": "Veja Limpeza Multiuso 500ml",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Veja Limpeza Limpador Multiuso Veja Limpeza é um limpador multiuso de alta eficiência, pronto para uso em embalagens de…",
+      "img": "img/veja-limpeza-500ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/veja-limpeza-500ml/"
+    },
+    {
+      "id": 2867,
+      "name": "Alcool em Gel para Limpeza 500g",
+      "cat": "Álcool Gel",
+      "desc": "Álcool gel para limpeza 70% O Álcool em Gel para Limpeza foi desenvolvido especialmente para a desinfecção eficaz de…",
+      "img": "img/70-500g.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/alcool-gel/70-500g/"
+    },
+    {
+      "id": 2865,
+      "name": "Alcool 46 % - Audax Facilita Limpeza e Desinfecção",
+      "cat": "Acessórios de Limpeza",
+      "desc": "O que é o alcool 46 .2%? O álcool 46,2% é uma solução líquida composta por 46% de álcool e 54% de água, amplamente…",
+      "img": "img/alcool-liquido-46-2-1l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/alcool-liquido-46-2-1l/"
+    },
+    {
+      "id": 2862,
+      "name": "Álcool 70 1 litro - Audax Facilita - Limpeza e Desinfecção",
+      "cat": "Acessórios de Limpeza",
+      "desc": "O que é o álcool 70 1 litro ? O álcool 70 1 litro é um composto químico usado geralmente devido sua praticidade. É um…",
+      "img": "img/alcool-70-facilita-1l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/alcool-70-facilita-1l/"
+    },
+    {
+      "id": 2860,
+      "name": "Limpa Inox Azulim 500ml Restaurador de brilho",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Limpa Inox Azulim Limpa Inox Azulim é a solução ideal para a limpeza de superfícies em aço inox, alumínio e peças…",
+      "img": "img/brilha-inox-azulim-500ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/brilha-inox-azulim-500ml/"
+    },
+    {
+      "id": 2858,
+      "name": "Inseticida SBP - 450ml",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Inseticida SBP Inseticida SBP é eficiente contra mosquitos (inclusive o da dengue ), moscas, baratas e formigas.…",
+      "img": "img/inseticida-sbp-450ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/varejo/inseticida-sbp-450ml/"
+    },
+    {
+      "id": 2856,
+      "name": "Lustra móveis Ypê - 200ml",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Lustra móveis Ypê Com agradável perfume , contém o exclusivo Brilho Reflex, que deixa uma fina película nos móveis,…",
+      "img": "img/lustra-moveis-ype-200ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/varejo/lustra-moveis-ype-200ml/"
+    },
+    {
+      "id": 2855,
+      "name": "Luva latex amarela",
+      "cat": "Epi`s",
+      "desc": "Luva Latex Em suma, a Luva Latex Amarela é confeccionada em borracha natural , com revestimento interno que proporciona…",
+      "img": "img/luva-latex-amarela.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/luva-latex-amarela/"
+    },
+    {
+      "id": 2854,
+      "name": "Luva de Latex azul",
+      "cat": "Epi`s",
+      "desc": "Luva de Latex Em suma, a Luva de Latex azul é uma luva de segurança, confeccionada em borracha natural, revestimento…",
+      "img": "img/luva-latex-azul.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/luva-latex-azul/"
+    },
+    {
+      "id": 2852,
+      "name": "Luva Látex Reforçada Laranja",
+      "cat": "Epi`s",
+      "desc": "Luva Látex Em suma, a Luva Látex Reforçada laranja é uma luva de segurança, confeccionada em borracha natural,…",
+      "img": "img/luva-latex-laranja-reforcada.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/luva-latex-laranja-reforcada/"
+    },
+    {
+      "id": 2850,
+      "name": "Luva Latex Longa Ranhurada - Amarela",
+      "cat": "Epi`s",
+      "desc": "Luva Latex Longa Ranhurada - Amarela Em suma, a Luva Latex Longa é uma luva de segurança, confeccionada em borracha…",
+      "img": "img/luva-latex-longa-ranhurada.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/epis/luva-latex-longa-ranhurada/"
+    },
+    {
+      "id": 2849,
+      "name": "Luva Látex verde",
+      "cat": "Epi`s",
+      "desc": "Luva Látex Verde Em suma, a Luva Látex verde é confeccionada em borracha natural , com revestimento interno de Verniz…",
+      "img": "img/luva-latex-verde.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/epis/luva-latex-verde/"
+    },
+    {
+      "id": 2848,
+      "name": "Luva multiuso amarela",
+      "cat": "Epi`s",
+      "desc": "Luva Multiuso Látex Amarela Em suma, a Luva Multiuso é confeccionada em borracha natural - Látex , com revestimento…",
+      "img": "img/luva-multiuso-amarela.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/epis/luva-multiuso-amarela/"
+    },
+    {
+      "id": 2847,
+      "name": "Detergente Alcalino Prax N32 - 5 Litros",
+      "cat": "Desengordurante",
+      "desc": "Desengordurante - Prax N32 Um poderoso detergente alcalino desengordurante concentrado o Prax N32. Devido a sua alta…",
+      "img": "img/prax-n32.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desengordurante/prax-n32/"
+    },
+    {
+      "id": 2844,
+      "name": "Desengraxante Industrial Limpeza Pesada Synd 250",
+      "cat": "Desengraxantes",
+      "desc": "Desengraxante Industrial Synd 250 O Synd 250 é um desengraxante industrial alcalino de alta concentração e…",
+      "img": "img/desengraxante-industrial-synd-250.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desengraxante/desengraxante-industrial-synd-250/"
+    },
+    {
+      "id": 2840,
+      "name": "Luva Nitrílica Amarela - EPI de limpeza",
+      "cat": "Epi`s",
+      "desc": "Luva Nitrílica Amarela Em suma, a Luva Nitrilica é confeccionada em borracha Nitrílica , sem revestimento interno. Além…",
+      "img": "img/luva-nitrilica-amarela.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/epis/luva-nitrilica-amarela/"
+    },
+    {
+      "id": 2837,
+      "name": "Luva Nitrilica Azul - EPI de limpeza",
+      "cat": "Epi`s",
+      "desc": "Luva Nitrilica Azul Em suma, a Luva Nitrilica é confeccionada em borracha Nitrílica , sem revestimento interno. Além…",
+      "img": "img/luva-nitrilica-azul-grande.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/epis/luva-nitrilica-azul-grande/"
+    },
+    {
+      "id": 2834,
+      "name": "Luva Nitrilica Verde - EPI de limpeza",
+      "cat": "Epi`s",
+      "desc": "Luva Nitrilica Verde Em suma, a Luva Nitrilica é confeccionada em borracha Nitrílica , sem revestimento interno. Além…",
+      "img": "img/luva-nitrilica-verde-grande.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/epis/luva-nitrilica-verde-grande/"
+    },
+    {
+      "id": 2831,
+      "name": "Luva Vinil Média Descartável com Amido",
+      "cat": "Acessórios de Limpeza",
+      "desc": "O que é? A luva vinil com amido transparente é anti-alérgica e feita 100% de vinil, ou seja, não contém proteína do…",
+      "img": "img/luva-vinil-media-descartavel-com-amido.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/luva-vinil-media-descartavel-com-amido/"
+    },
+    {
+      "id": 2829,
+      "name": "Luva Vinil Grande Descartável Sem Amido",
+      "cat": "Acessórios de Limpeza",
+      "desc": "O que é? A luva vinil sem amido ambidestra é um produto de extrema qualidade feita 100% de vinil e, portanto, ela não…",
+      "img": "img/luva-vinil-grande-descartavel-sem-amido.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/luva-vinil-grande-descartavel-sem-amido/"
+    },
+    {
+      "id": 2827,
+      "name": "Sabão em pó - Invicto/Urca - 1Kg",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabão em pó Invicto Sabão em pó - Invicto com 1kg. Conheça outros produtos, clicando aqui . Conheça nossos artigos,…",
+      "img": "img/sabao-em-po-invicto-urca-1kg.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/varejo/sabao-em-po-invicto-urca-1kg/"
+    },
+    {
+      "id": 2825,
+      "name": "Sabão em pó - Omo 1kg",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Sabão em pó omo 1kg. Qualquer dúvida, ligue 0800-505-2888",
+      "img": "img/sabao-em-po-omo-1kg.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/sabao-em-po-omo-1kg/"
+    },
+    {
+      "id": 2823,
+      "name": "Sabão em pó - Tixan 1kg",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabão em pó Tixan Sabão em pó Tixan Ypê com 1kg. Conheça outros produtos, clicando aqui . Conheça nossos artigos,…",
+      "img": "img/sabao-em-po-tixan-1kg.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/varejo/sabao-em-po-tixan-1kg/"
+    },
+    {
+      "id": 2821,
+      "name": "Limpa pedras - Pedrex - 5L",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Foi especialmente elaborado para a remoção de sujeiras e incrustações em pedras e pisos rústicos (não…",
+      "img": "img/limpa-pedras-pedrex-5l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpa-pedras-pedrex-5l/"
+    },
+    {
+      "id": 2819,
+      "name": "Pedra sanitária Azulim",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Pedra Sanitaria Azulim Pedra Sanitaria Azulim com 25 gramas cada. É higiênico e pratico de usar, pois é descartável.…",
+      "img": "img/pedra-sanitaria-azulim.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/varejo/pedra-sanitaria-azulim/"
+    },
+    {
+      "id": 2817,
+      "name": "Vaselina liquida - 1L",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Vaselina liquida Vaselina liquida frasco com 1 litro. Conheça outros produtos, clicando aqui . Conheça nossos artigos,…",
+      "img": "img/vaselina-liquida-1l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/varejo/vaselina-liquida-1l/"
+    },
+    {
+      "id": 2815,
+      "name": "Vassoura mágica compact plus",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Vassoura mágica Vassoura mágica em aço que proporciona resistência, durabilidade e pintura eletrostática. Limpa…",
+      "img": "img/vassoura-magica-compact-plus.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/varejo/vassoura-magica-compact-plus/"
+    },
+    {
+      "id": 2813,
+      "name": "Álcool Gel - 46.2% de 500g Adata",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Álcool Gel 46% Em suma, este Álcool Gel para Limpeza foi especialmente desenvolvido para ser a utilizado na limpeza de…",
+      "img": "img/alcool-gel-46-2-500g.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/alcool-gel-46-2-500g/"
+    },
+    {
+      "id": 2811,
+      "name": "Lustra móveis Poliflor - 500ml",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Lustra Móveis Poliflor Lavanda, limpa e dá brilho. Indicado para todos os tipos de móveis e equipamentos Unidade -…",
+      "img": "img/lustra-moveis-poliflor-500ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/varejo/lustra-moveis-poliflor-500ml/"
+    },
+    {
+      "id": 2809,
+      "name": "Sabão em pedra - Minuano",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabão em barra - Glicerinado. 5 unidades Qualquer dúvida, ligue 0800-505-2888",
+      "img": "img/sabao-em-pedra-minuano.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/varejo/sabao-em-pedra-minuano/"
+    },
+    {
+      "id": 2807,
+      "name": "Sabão em pedra - Ypê",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabão em barra Ypê - Glicerinado - Pacote com 5 unidades. Conheça a linha de produtos profissionais de limpeza da…",
+      "img": "img/sabao-em-pedra-ype.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/varejo/sabao-em-pedra-ype/"
+    },
+    {
+      "id": 2805,
+      "name": "Sabonete em barras - Lux",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Formulado com óleos hidraflorais, a nova fórmula de Lux intensifica a sensação de hidratação e perfume, para uma…",
+      "img": "img/sabonete-em-barras-lux.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/varejo/sabonete-em-barras-lux/"
+    },
+    {
+      "id": 2803,
+      "name": "Dispenser para Descarte de copo de água",
+      "cat": "Dispensers",
+      "desc": "Descarte de copos O dispenser de copos de água foi planejado especialmente para melhor organização e higienização…",
+      "img": "img/descarte-de-copo-de-agua.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/descarte-de-copo-de-agua/"
+    },
+    {
+      "id": 2801,
+      "name": "Aromatizante Eucalipto  - 140ml",
+      "cat": "Aromatizador de ambiente",
+      "desc": "Aromatizante Deixa o ambiente com um perfume duradouro e a agradável sensação de bem-estar, que dura por muito mais…",
+      "img": "img/eucalipto-140ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/aromatizador-de-ambiente/eucalipto-140ml/"
+    },
+    {
+      "id": 2799,
+      "name": "Aromatizante Lavanda  - 140ml",
+      "cat": "Aromatizador de ambiente",
+      "desc": "Aromatizante Deixa o ambiente com um perfume duradouro e a agradável sensação de bem-estar, que dura por muito mais…",
+      "img": "img/lavanda-140ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/aromatizador-de-ambiente/lavanda-140ml/"
+    },
+    {
+      "id": 2795,
+      "name": "Aromatizante Coala Floral - 140ml",
+      "cat": "Aromatizador de ambiente",
+      "desc": "Aromatizante Deixa o ambiente com um perfume duradouro e a agradável sensação de bem-estar, que dura por muito mais…",
+      "img": "img/coala-lavanda-140ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/aromatizador-de-ambiente/coala-lavanda-140ml/"
+    },
+    {
+      "id": 2793,
+      "name": "Aromatizante Coala - Talco 140ml",
+      "cat": "Aromatizador de ambiente",
+      "desc": "Aromatizante Deixa o ambiente com um perfume duradouro e a agradável sensação de bem-estar, que dura por muito mais…",
+      "img": "img/coala-talco-140ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/aromatizador-de-ambiente/coala-talco-140ml/"
+    },
+    {
+      "id": 2791,
+      "name": "Flanela branca",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Flanela Branca Esta Flanela branca é apresentada na cor branca, proporcionando a correta limpeza das superfícies.…",
+      "img": "img/flanela-branca.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/flanela-branca/"
+    },
+    {
+      "id": 2789,
+      "name": "Oleo de peroba 200ml",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Oleo de peroba Conserva, limpa, lustra e renova todos os tipos de madeira, protegendo contra a ação do tempo,…",
+      "img": "img/oleo-de-peroba-200ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/varejo/oleo-de-peroba-200ml/"
+    },
+    {
+      "id": 2787,
+      "name": "Palha de aço n.2 25g",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Palha de aço. Qualquer dúvida, ligue 0800-505-2888",
+      "img": "img/palha-de-aco-n-2-25g.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/palha-de-aco-n-2-25g/"
+    },
+    {
+      "id": 2785,
+      "name": "Lã de aço - brilho 60g",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Lã de aço brilho pacote com 8 unidades. É um faz-tudo que pode ser usado das formas mais variadas, auxiliando na…",
+      "img": "img/la-de-aco-brilho-60g.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/la-de-aco-brilho-60g/"
+    },
+    {
+      "id": 2784,
+      "name": "Balde plástico 13L",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Descrição Balde plástico 13L Compre nosso Balde plástico 13L e muitos produtos de limpeza em sua lista de materiais de…",
+      "img": "img/balde-plastico-13l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/balde-plastico-13l/"
+    },
+    {
+      "id": 2782,
+      "name": "Balde Plástico 7L",
+      "cat": "Limpeza por Cores",
+      "desc": "Balde plástico 7 litros. Balde plástico 7 litros, desenvolvido para melhorar o seu processo de limpeza . Qualquer…",
+      "img": "img/balde-plastico-7l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/balde-plastico-7l/"
+    },
+    {
+      "id": 2780,
+      "name": "Balde reforçado 10L - preto",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Balde reforçado 10 litros preto. Balde reforçado 10 litros preto, desenvolvido para melhorar o seu processo de…",
+      "img": "img/balde-reforcado-10l-preto.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/utensilios/balde-reforcado-10l-preto/"
+    },
+    {
+      "id": 2778,
+      "name": "Funil plástico",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Funil para uso geral. Ideal para transferência de líquidos. Qualquer dúvida, ligue 0800-505-2888",
+      "img": "img/funil-plastico.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/funil-plastico/"
+    },
+    {
+      "id": 2776,
+      "name": "Pulverizador manual - espuma e spray - 1L",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Pulverizador Manual 1L com Função Espuma e Spray – Eficiência e Economia para a Limpeza Profissional O Pulverizador…",
+      "img": "img/pulverizador-manual-espuma-e-spray-1l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/pulverizador-manual-espuma-e-spray-1l/"
+    },
+    {
+      "id": 2772,
+      "name": "Pulverizador Pequeno para Limpeza Uniluk - 500ml",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Pulverizador Pequeno para limpeza Uniluk: O pulverizador pequeno de 500ml é feito de polipropileno e foi desenvolvido…",
+      "img": "img/pulverizador-uniluk-500ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/limpeza-por-cores/pulverizador-uniluk-500ml/"
+    },
+    {
+      "id": 2638,
+      "name": "Detergente Desengraxante Synd 250 Fácil 4G",
+      "cat": "Desengraxantes",
+      "desc": "Detergente Desengraxante e Desengordurante Synd 250 4G Em suma o Synd 250 Fácil 4G é um eficiente detergente…",
+      "img": "img/synd-250-facil-4g.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desengraxante/synd-250-facil-4g/"
+    },
+    {
+      "id": 2636,
+      "name": "Cera Líquida para pisos Vorax - 5 litros",
+      "cat": "Cera Piso",
+      "desc": "Cera Líquida para piso Em suma, Vorax é uma cera líquida emulsionada, semi-lustrável e autobrilhante, à base de mistura…",
+      "img": "img/vorax.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/vorax/"
+    },
+    {
+      "id": 2634,
+      "name": "Cera de Carnauba Líquida Sax - 5 Litros",
+      "cat": "Cera Piso",
+      "desc": "Cera Líquida Lustrável - Sax Em suma, a Cera de Carnauba Líquida Sax é uma cera lustrável em baixa rotação, emulsionada…",
+      "img": "img/sax-carnauba.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/sax-carnauba/"
+    },
+    {
+      "id": 2632,
+      "name": "Cera de Carnaúba Líquida Concentrada Prax 20 - 5 litros",
+      "cat": "Cera Piso",
+      "desc": "Cera Líquida Concentrada - Prax 20 Em suma, a Cera de Carnaúba Prax 20 é uma cera para pisos líquida e lustrável,…",
+      "img": "img/prax-20-carnauba.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/prax-20-carnauba/"
+    },
+    {
+      "id": 2630,
+      "name": "Detergente Limpador de Pisos Polish Keep-Coat",
+      "cat": "Detergente",
+      "desc": "Detergente Limpador de pisos Em suma, o Detergente Polish Keep-Coat é um poderoso limpador de pisos e geral,…",
+      "img": "img/polish-keep-coat.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/polish-keep-coat/"
+    },
+    {
+      "id": 2626,
+      "name": "álcool gel 70 antisséptico 500ml com Hidratante Opticare®",
+      "cat": "Álcool Gel",
+      "desc": "Álcool gel 70 antisséptico 500ml Em suma, o álcool gel 70 antisséptico 500ml Opticare®, conhecido como Opticare IHS Gel…",
+      "img": "img/opticare-ihs-hidratante.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/alcool-gel/opticare-ihs-hidratante/"
+    },
+    {
+      "id": 2624,
+      "name": "Álcool Gel Hidratante - Opticare IHS Espuma",
+      "cat": "Álcool Gel",
+      "desc": "Álcool Gel Hidratante - Espuma Opticare Em suma, o Álcool Gel Hidratante Opticare ® IHS Espuma, conhecido como Opticare…",
+      "img": "img/alcool-gel-opticare-ihs-espuma-hidratante.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/alcool-gel/alcool-gel-opticare-ihs-espuma-hidratante/"
+    },
+    {
+      "id": 2622,
+      "name": "Álcool em Gel 70 - Antisséptico Instantâneo, com Hidratante",
+      "cat": "Álcool Gel",
+      "desc": "Álcool em Gel 70, antisséptico instantâneo da New Eversoft Este Álcool em Gel 70 da New Eversoft, conhecido também como…",
+      "img": "img/new-eversoft-antisseptico-instantaneo-gel-hidratante.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/alcool-gel/new-eversoft-antisseptico-instantaneo-gel-hidratante/"
+    },
+    {
+      "id": 2620,
+      "name": "Álcool Espuma, Antisséptico Instantâneo para as mãos - Eversoft",
+      "cat": "Álcool Gel",
+      "desc": "Sabão de Álcool Espuma New Eversoft Este Sabão de Álcool Espuma da New Eversoft é um Antisséptico e Hidratante,…",
+      "img": "img/sabao-de-alcool-new-eversoft-antisseptico-instantaneo-espuma.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/alcool-gel/sabao-de-alcool-new-eversoft-antisseptico-instantaneo-espuma/"
+    },
+    {
+      "id": 2616,
+      "name": "Desinfetante Optigerm ® Hospitalar - Wipe Sachê",
+      "cat": "Desinfetantes Hospitalares",
+      "desc": "Desinfetante Optigerm ® Hospitalar - Wipe Em suma, o Optigerm Wipe Sachê e é um excelente desinfetante hospitalar e…",
+      "img": "img/desinfetante-hospitalar-optigerm-wipe-sache.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetante-hospitalar/desinfetante-hospitalar-optigerm-wipe-sache/"
+    },
+    {
+      "id": 2614,
+      "name": "Lenço antisséptico - Optigerm® Wipe Pack",
+      "cat": "Desinfetantes Hospitalares",
+      "desc": "Lenço antisséptico Optigerm O lenço antisséptico Optigerm® Wipe Pack é um excelente agente de auxílio ao combate e…",
+      "img": "img/optigerm-wipe-pack.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetante-hospitalar/optigerm-wipe-pack/"
+    },
+    {
+      "id": 2612,
+      "name": "Optigerm Desinfetante Hospitalar Wipe - Wipe Balde",
+      "cat": "Desinfetantes Hospitalares",
+      "desc": "Desinfetante Hospitalar Optigerm Wipe O Optigerm Desinfetante Hospitalar Wipe é uma excelente versão de desinfetante…",
+      "img": "img/optigerm-wipe.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetante-hospitalar/optigerm-wipe/"
+    },
+    {
+      "id": 2610,
+      "name": "Dosador Manual para sabonete e álcool Opticare IHS",
+      "cat": "Dispensers",
+      "desc": "Saboneteira de Parede com Dosador Manual Esta saboneteira com dosador manual foi especialmente desenvolvido para a…",
+      "img": "img/saboneteira-dosador-manual-ihs.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/saboneteira-dosador-manual-ihs/"
+    },
+    {
+      "id": 2608,
+      "name": "Ponteira Magic Spray - Linha New Eversoft",
+      "cat": "Dispensers",
+      "desc": "Ponteira Magic Spray Em suma, essa ponteira foi especialmente desenvolvida para transformar os produtos New Eversoft…",
+      "img": "img/ponteira-magic-spray.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/ponteira-magic-spray/"
+    },
+    {
+      "id": 2602,
+      "name": "Suporte Stop Drop - Corta Pingo",
+      "cat": "Dispensers",
+      "desc": "Base corta pingos de álcool em gel ou álcool espuma",
+      "img": "img/new-eversoft-corta-pingos.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/new-eversoft-corta-pingos/"
+    },
+    {
+      "id": 2600,
+      "name": "Saboneteira Manual para Sabonete e Álcool - New Eversoft",
+      "cat": "Dispensers",
+      "desc": "Saboneteira Manual para sabonete e álcool New Eversoft O New Eversoft Dosador Manual, cujo dosador possui acionamento…",
+      "img": "img/new-eversoft-dosador-manual-saboneteira.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/new-eversoft-dosador-manual-saboneteira/"
+    },
+    {
+      "id": 2598,
+      "name": "Dosador Automático para Sabonete e Álcool - New Eversoft",
+      "cat": "Álcool Gel",
+      "desc": "Dosador automático New Eversoft Este Dosador automático foi especialmente desenvolvido para a linha de sabonete e…",
+      "img": "img/dosador-automatico-saboneteira.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/dispensers/dosador-automatico-saboneteira/"
+    },
+    {
+      "id": 2596,
+      "name": "Sabonete Líquido Espuma Opticare Toilette",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabonete Sem Cheiro Espuma Premium Este Sabonete Sem Cheiro Espuma, de nome Opticare Toilette Sabonete para Uso Geral,…",
+      "img": "img/opticare-toilette-espuma-uso-geral.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/opticare-toilette-espuma-uso-geral/"
+    },
+    {
+      "id": 2594,
+      "name": "Sabonete Líquido Espuma para cabelo e corpo - New Eversoft",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabonete espuma para banho - Cabelo e Corpo Este Sabonete Líquido Espuma, conhecido como New Eversoft Shower Sabonete…",
+      "img": "img/sabonete-cabelo-e-corpo.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/sabonete-cabelo-e-corpo/"
+    },
+    {
+      "id": 2592,
+      "name": "Sabonete em Espuma para as mãos, Basic - New Eversoft",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabonete Espuma para uso geral Basic Em suma, este Sabonete espuma , conhecido também como New Eversoft Sabonete Para…",
+      "img": "img/espuma-basic.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/espuma-basic/"
+    },
+    {
+      "id": 2590,
+      "name": "Sabonete Líquido Cremoso em Refil New Eversoft - Floral",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabonete líquido cremoso para empresas Este Sabonete líquido cremoso, conhecido como New Eversoft Sabonete Cremoso,…",
+      "img": "img/espuma-cremoso.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/espuma-cremoso/"
+    },
+    {
+      "id": 2346,
+      "name": "Sabonete Espuma para as mãos Premium, New Eversoft -Twist",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabonete espuma para uso intenso e frequente Este sabonete espuma para mãos, também conhecido como New Eversoft…",
+      "img": "img/espuma-new-eversoft-premium-twist.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/espuma-new-eversoft-premium-twist/"
+    },
+    {
+      "id": 2344,
+      "name": "Sabonete Antisséptico Líquido - New Eversoft",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabonete Antisséptico Líquido para as mãos Este Sabonete Antisséptico é uma loção cremosa, sem fragrância que promove a…",
+      "img": "img/new-eversoft-locao-antissepica-para-as-maos.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/new-eversoft-locao-antissepica-para-as-maos/"
+    },
+    {
+      "id": 2342,
+      "name": "Sabonete em Espuma para uso geral - Capim Limão",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabonete espuma para uso geral Este Sabonete espuma, conhecido também como New Eversfot Sabonete Para Uso Geral Capim…",
+      "img": "img/espuma-para-uso-geral-capim-limao.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/espuma-para-uso-geral-capim-limao/"
+    },
+    {
+      "id": 2340,
+      "name": "Sabonete Espuma para uso geral - Baby Powder",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabonete espuma para uso geral Em suma, este Sabonete espuma , conhecido como New Eversfot Sabonete Para Uso Geral Baby…",
+      "img": "img/new-eversoft-espuma-uso-geral-baby-powder.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/new-eversoft-espuma-uso-geral-baby-powder/"
+    },
+    {
+      "id": 2336,
+      "name": "Sabonete Líquido 5 litros com Hidratante, Grass Cosmetic",
+      "cat": "Produtos de Limpeza Profissional",
+      "desc": "Sabonete Líquido 5 litros - Grass Cosmetic O sabonete Grass Cosmetic é uma loção cremosa de grau cosmético, para…",
+      "img": "img/grass-cosmetic.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/grass-cosmetic/"
+    },
+    {
+      "id": 2334,
+      "name": "Dispenser para álcool gel automático - Station New",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Dispenser para álcool gel automático - Hand Station New Eversoft Em suma, o Dispenser para álcool gel automático - Hand…",
+      "img": "img/produtos-de-limpeza-acessorios-hand-station-new-eversoft.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/produtos-de-limpeza-acessorios-hand-station-new-eversoft/"
+    },
+    {
+      "id": 2332,
+      "name": "Kit Para Reparos Jet 1000",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Kit para reparos para o aplicador com Pressão Prévia Jet 1000, facilita pequenos reparos para que não haja necessidade…",
+      "img": "img/kit-para-reparos-jet-1000.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/kit-para-reparos-jet-1000/"
+    },
+    {
+      "id": 2330,
+      "name": "Clean Station",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Qualquer dúvida, ligue para 0800-006-4747 Clean Station é o suporte perfeito para locais onde não existe superfície…",
+      "img": "img/produtos-de-limpeza-acessorios-clean-station.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/produtos-de-limpeza-acessorios-clean-station/"
+    },
+    {
+      "id": 1631,
+      "name": "Desengordurante Industrial Synd 250 - Oleak",
+      "cat": "Desengordurante",
+      "desc": "Desengordurante Industrial Synd 250 Em suma, o Desengordurante Industrial Synd 250 é um produto bastante concentrado .…",
+      "img": "img/synd-250.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desengordurante/synd-250/"
+    },
+    {
+      "id": 1629,
+      "name": "Desengraxante 5 litros Prax",
+      "cat": "Desengraxantes",
+      "desc": "Desengraxante 5 litros Neutro Prax Em suma, o Desengraxante 5 litros Neutro Prax é um desengraxante e desengordurante…",
+      "img": "img/prax-n32-2.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desengraxante/prax-n32-2/"
+    },
+    {
+      "id": 1627,
+      "name": "Diluição - Mangueira Sistema Fácil Oleak",
+      "cat": "Diluidores",
+      "desc": "Diluição de Produtos de Limpeza - Mangueira Sistema Fácil da Oleak O kit da Mangueira do Sistema Fácil consiste em um…",
+      "img": "img/diluicao-mangueira-sistema-facil.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/diluidores/diluicao-mangueira-sistema-facil/"
+    },
+    {
+      "id": 1625,
+      "name": "Produto Para Limpeza Concentrado - Linha Fácil",
+      "cat": "Diluidores",
+      "desc": "Produto Para Limpeza Concentrado A Linha Fácil é formada por produto de limpeza concentrado ou super-concentrados,…",
+      "img": "img/produto-de-limpeza-concentrado.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/diluidores/produto-de-limpeza-concentrado/"
+    },
+    {
+      "id": 1617,
+      "name": "Melhor Limpa Vidros Fácil - Oleak",
+      "cat": "Limpador de vidro",
+      "desc": "Limpa Vidros 35 Sb O Melhor Limpa Vidros de nome FÁCIL 35 sb é um limpador geral especialmente desenvolvido para a…",
+      "img": "img/facil-35sb.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/limpa-vidro/facil-35sb/"
+    },
+    {
+      "id": 1613,
+      "name": "Desengordurante e Desincrustante Kitch Care ® da Oleak",
+      "cat": "Desengordurante",
+      "desc": "Kitch Care ® – Detergente Desincrustante Em suma, o Kitch Care ® é um detergente desincrustante com uma poderosa ação…",
+      "img": "img/kitch-care-desincrustante.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desengordurante/kitch-care-desincrustante/"
+    },
+    {
+      "id": 1602,
+      "name": "Desengordurante Kitch Care® da Oleak - 2 litros",
+      "cat": "Desengordurante",
+      "desc": "Kitch Care ® – Detergente Desengordurante Em suma, o Kitch Care ® é um detergente desengordurante que promove, com…",
+      "img": "img/kitch-care.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desengordurante/kitch-care/"
+    },
+    {
+      "id": 1596,
+      "name": "Aromatizador de Ambientes Haroma Ambient Spray",
+      "cat": "Aromatizador de ambiente",
+      "desc": "Aromatizador de Ambientes Haroma Ambient Spray Descubra a excelência do Haroma Ambient Spray, parte da exclusiva linha…",
+      "img": "img/haroma-ambient-spray.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/aromatizador-de-ambiente/haroma-ambient-spray/"
+    },
+    {
+      "id": 1593,
+      "name": "Neutralizador de Odores Haroma Ambient",
+      "cat": "Aromatizador de ambiente",
+      "desc": "Neutralizador de Odores Haroma Ambient Em suma, este Neutralizador de Odores multiação pertence a linha Haroma Ambient.…",
+      "img": "img/haroma-ambient-neutralizador-de-odores.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/aromatizador-de-ambiente/haroma-ambient-neutralizador-de-odores/"
+    },
+    {
+      "id": 1592,
+      "name": "Perfumador Fácil Haroma Ambient",
+      "cat": "Aromatizador de ambiente",
+      "desc": "Detergente Perfumador Haroma Ambient Em suma, este Detergente Perfumador pertence a linha Haroma Ambient . Ele serve…",
+      "img": "img/ambient-detergente-perfumador-facil.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/aromatizador-de-ambiente/ambient-detergente-perfumador-facil/"
+    },
+    {
+      "id": 1589,
+      "name": "Limpador Multiuso Garra - 1 Litro - Pronto Uso",
+      "cat": "Multiuso",
+      "desc": "Limpador Multiuso e Pronto Uso Garra Em suma, o Garra Pronto-Uso é um limpador multiuso indicado para a remoção de todo…",
+      "img": "img/garra-pronto-uso.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/multiuso/garra-pronto-uso/"
+    },
+    {
+      "id": 1586,
+      "name": "Limpador Multiuso Concentrado Fácil 31 - Oleak",
+      "cat": "Multiuso",
+      "desc": "Limpador multiuso 31 da Oleak O Limpador multiuso concentrado Fácil 31 foi especialmente desenvolvido para limpeza e…",
+      "img": "img/facil-31.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/multiuso/facil-31/"
+    },
+    {
+      "id": 1568,
+      "name": "Removedor de Cera – Prax 35 – 5 Litros",
+      "cat": "Cera Piso",
+      "desc": "Prax 35 removedor de cera Em suma, o Prax 35 é um removedor de cera e impermeabilizantes acrílicos que foram aplicados…",
+      "img": "img/prax-35-removedor.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/prax-35-removedor/"
+    },
+    {
+      "id": 1564,
+      "name": "Selador Acrílico Polish Pré-coat de 5 Litros - Oleak",
+      "cat": "Cera Piso",
+      "desc": "Selador Acrílico Em suma, o Selador Acrílico Polish Pré-Coat é um primer que forma uma película transparente e incolor…",
+      "img": "img/polish-pre-coat-selador.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/polish-pre-coat-selador/"
+    },
+    {
+      "id": 1562,
+      "name": "Removedor de Ceras e Impermeabilizante Polish Strip-coat",
+      "cat": "Cera Piso",
+      "desc": "Removedor de Ceras e impermeabilizante Em suma, o Polish Strip-Coat é um removedor de ceras e impermeabilizantes…",
+      "img": "img/polish-strip-coat.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/polish-strip-coat/"
+    },
+    {
+      "id": 1560,
+      "name": "Base Seladora Genius Selador para pisos - 5 litros",
+      "cat": "Cera Piso",
+      "desc": "Base Seladora Genius - Cera Seladora Em suma a Base Seladora Genius é uma cera indicada para impermeabilizar pisos…",
+      "img": "img/genius-selador-pisos.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/genius-selador-pisos/"
+    },
+    {
+      "id": 1558,
+      "name": "Cera Restauradora Genius de 5 Litros - Oleak",
+      "cat": "Cera Piso",
+      "desc": "Cera Restauradora Genius Em suma a Cera restauradora Genius, ou Genius Restaurador, reúne em um único produto as…",
+      "img": "img/genius-restaurador-pisos.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/genius-restaurador-pisos/"
+    },
+    {
+      "id": 1556,
+      "name": "Removedor de cera Genius 5 Litros - Oleak",
+      "cat": "Cera Piso",
+      "desc": "Removedor de Cera Genius Em suma, Genius Removedor de Cera é indicado para a remoção de acabamentos e…",
+      "img": "img/genius-removedor-ceras.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/cera-piso/genius-removedor-ceras/"
+    },
+    {
+      "id": 1551,
+      "name": "Detergente Hospitalar Neutro - Opticlean®",
+      "cat": "Desinfetantes Hospitalares",
+      "desc": "Detergente Hospitalar Neutro - Opticlean Em suma, o Opticlean Detergente Neutro para Uso Hospitalar é um Detergente…",
+      "img": "img/neutro-para-uso-hospitalar.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/neutro-para-uso-hospitalar/"
+    },
+    {
+      "id": 1549,
+      "name": "Desengraxante para as mãos Eversoft - 5 Litros",
+      "cat": "Desengraxantes",
+      "desc": "Sabonete Desengraxante Sabonete Desengraxante para as mãos, ou Eversoft Desengraxante, é um produto cremoso e de ótimo…",
+      "img": "img/sabonete-desengraxante-maos.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/sabonete/sabonete-desengraxante-maos/"
+    },
+    {
+      "id": 1547,
+      "name": "Detergente Liquido Neutro Torky - 1 Litro Oleak",
+      "cat": "Detergente",
+      "desc": "Detergente Liquido Neutro Torky Em suma, o Detergente Liquido Neutro Torky é um produto concentrado que foi…",
+      "img": "img/torky.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/torky/"
+    },
+    {
+      "id": 1544,
+      "name": "Limpa Carpete Tenside Spotter - 5 Litros",
+      "cat": "Detergente",
+      "desc": "Detergente Limpa Carpete - Tenside Spotter O Tenside Spotter é um limpa carpete, tapetes, sofás de última geração. Pois…",
+      "img": "img/tenside-spotter-limpa-carpetes.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/tenside-spotter-limpa-carpetes/"
+    },
+    {
+      "id": 1541,
+      "name": "Detergente ácido para pisos Shock - 5 litros",
+      "cat": "Detergente",
+      "desc": "Detergente Limpador ácido para pisos Shock da Oleak Em suma, o Shock é um Detergente ácido recomendado para limpeza…",
+      "img": "img/shock-limpador-acido.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/shock-limpador-acido/"
+    },
+    {
+      "id": 1539,
+      "name": "Limpador Ácido Bactericida para Banheiro Shock Wc - 1 litro",
+      "cat": "Detergente",
+      "desc": "Detergente Limpador Ácido Bactericida para Banheiro Shock WC Em suma, o Shock WC é um detergente L impador ácido…",
+      "img": "img/shock-wc-limpador-acido.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/shock-wc-limpador-acido/"
+    },
+    {
+      "id": 1537,
+      "name": "Limpador de Sofá, Tapetes e Carpetes- Rug master",
+      "cat": "Detergente",
+      "desc": "Limpador de Sofá, Tapetes e Carpetes - Rug Master O Limpador de Sofá, Detergente para Tapetes e Carpetes RugMaster é um…",
+      "img": "img/rug-master-limpa-carpetes.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/rug-master-limpa-carpetes/"
+    },
+    {
+      "id": 1535,
+      "name": "Sabão Neutro Liquido - Prax 30 Oleak",
+      "cat": "Detergente",
+      "desc": "Detergente Neutro Concentrado Prax 30 da Oleak Em suma, o Sabão Neutro Liquido Prax 30, um detergente 5 litros foi…",
+      "img": "img/prax-30-neutro.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/prax-30-neutro/"
+    },
+    {
+      "id": 1504,
+      "name": "Detergente Desengordurante Limoníaco - 5 Litros",
+      "cat": "Detergente",
+      "desc": "Detergente desengordurante a base de amoníaco - Limoníaco Em suma, o Limoníaco é um detergente amoniacal, ou seja, um…",
+      "img": "img/limoniaco-amoniacal.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/limoniaco-amoniacal/"
+    },
+    {
+      "id": 1499,
+      "name": "Sabão para Máquina de Lavar Louças - Kitch Care®",
+      "cat": "Detergente",
+      "desc": "Detergente Lava Louças - Kitch Care ® Em suma, o Sabão para Máquina de Lavar Louças - Kitch Care ® é um detergente…",
+      "img": "img/produto-de-limpeza-detergente-kitch-care-sabao-maquina-de-la.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/produto-de-limpeza-detergente-kitch-care-sabao-maquina-de-lavar-loucas/"
+    },
+    {
+      "id": 1495,
+      "name": "Secante Lava Louças - Kitch Care ®",
+      "cat": "Detergente",
+      "desc": "Aditivo Secante Para Máquinas De Lavar Louças Kitch Care Em suma o Secante Lava Louças - Kitch Care ® é um produto que…",
+      "img": "img/kitch-care-secante-maquinas-de-lavar-loucas.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/kitch-care-secante-maquinas-de-lavar-loucas/"
+    },
+    {
+      "id": 1491,
+      "name": "Detergente Desinfetante Perox - Garra Oxiativo",
+      "cat": "Destaque",
+      "desc": "Detergente Desinfetante Perox - Garra Oxiativo O Garra Oxiativo é um detergente com base em peróxido de hidrogênio,…",
+      "img": "img/peroxido-hidrogenio-garra-5.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/peroxido-hidrogenio-garra-5/"
+    },
+    {
+      "id": 1489,
+      "name": "Detergente Concentrado Alcalino - Garra 4G",
+      "cat": "Detergente",
+      "desc": "Detergente e Limpador Geral Garra Fácil 4G O Detergente Concentrado Alcalino - Garra Fácil 4G é um eficiente detergente…",
+      "img": "img/garra-facil-4g.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/garra-facil-4g/"
+    },
+    {
+      "id": 1487,
+      "name": "Detergente Garra Limpador geral - 5 litros",
+      "cat": "Detergente",
+      "desc": "Detergente Garra Limpador Geral da Oleak Em suma, o Garra é um detergente concentrado, indicado para a limpeza pesada e…",
+      "img": "img/limpador-garra.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/limpador-garra/"
+    },
+    {
+      "id": 1485,
+      "name": "Desinfetante 2 litros concentrado Uso Geral - Fácil 22 e 22 SB",
+      "cat": "Desinfetantes",
+      "desc": "Desinfetante 2 litros Concentrado - Linha Fácil para Uso Geral O Desinfetante 2 litros Concentrado Fácil 22 SB é um…",
+      "img": "img/facil-22sb.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/facil-22sb/"
+    },
+    {
+      "id": 1481,
+      "name": "Detergente Limpador Geral - Fácil 22 Oleak",
+      "cat": "Detergente",
+      "desc": "Detergente Limpador Geral - Fácil 22 O Detergente Fácil 22 é um limpador geral especialmente desenvolvido para a…",
+      "img": "img/facil-22.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/facil-22/"
+    },
+    {
+      "id": 1480,
+      "name": "Detergente Limpador Geral - Fácil 21 SB",
+      "cat": "Detergente",
+      "desc": "Detergente Neutro Fácil 21 SB da Oleak O Detergente Neutro Fácil 21 SB é um limpador geral especialmente desenvolvido…",
+      "img": "img/facil-21sb.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/facil-21sb/"
+    },
+    {
+      "id": 1478,
+      "name": "Limpador geral - Fácil 21 da marca Oleak",
+      "cat": "Detergente",
+      "desc": "Limpador Geral Fácil 21 O Limpador Fácil 21 é um limpador geral especialmente desenvolvido para a limpeza pesada de…",
+      "img": "img/facil-21.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/facil-21/"
+    },
+    {
+      "id": 1473,
+      "name": "Detergente Neutro Concentrado Best",
+      "cat": "Detergente",
+      "desc": "Detergente Neutro Best O Detergente Neutro Concentrado best é um detergente criado para uso institucional, indicado…",
+      "img": "img/neutro-best.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/neutro-best/"
+    },
+    {
+      "id": 1471,
+      "name": "Limpa Pisos -  Detergente Limpador Basco",
+      "cat": "Detergente",
+      "desc": "Limpa Pisos - Basco O Limpa Pisos - Limpador Basco é um limpador geral indicado para limpeza e conservação de todas as…",
+      "img": "img/basco.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/detergente/basco/"
+    },
+    {
+      "id": 1469,
+      "name": "Suporte Optigerm Frasco 490ml - Oleak",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Suporte Optigerm Frasco 490 ml Suporte Optigerm foi desenvolvido especialmente para facilitar o manuseio do Optigerm…",
+      "img": "img/desinfetante-suporte-optigerm-frasco-490ml.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/desinfetante-suporte-optigerm-frasco-490ml/"
+    },
+    {
+      "id": 1465,
+      "name": "Optigerm Pronto Uso - Desinfetante Hospitalar",
+      "cat": "Desinfetantes Hospitalares",
+      "desc": "Desinfetante hospitalar - Optigerm ® Em suma, o Optigerm pronto uso é um desinfetante hospitalar indicado para a…",
+      "img": "img/optigerm.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetante-hospitalar/optigerm/"
+    },
+    {
+      "id": 1463,
+      "name": "Desinfetante 5 litros e Limpador - Klim Floral",
+      "cat": "Desinfetantes",
+      "desc": "Desinfetante 5 litros de Uso Geral - Klim Floral Com o desinfetante 5 litros Klim Floral você tem, em conjunto, ação de…",
+      "img": "img/klim-desinfetante.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/klim-desinfetante/"
+    },
+    {
+      "id": 1461,
+      "name": "Desinfetante Concentrado Blanco Fácil 4g",
+      "cat": "Desinfetantes",
+      "desc": "Desinfetante Concentrado Blanco Fácil 4G O Desinfetante Concentrado Blanco Fácil 4G é um produto concentrado no sistema…",
+      "img": "img/blanco-facil-4g.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/blanco-facil-4g/"
+    },
+    {
+      "id": 1459,
+      "name": "Desinfetante Blanco Fácil",
+      "cat": "Desinfetantes",
+      "desc": "Desinfetante Blanco Fácil O Desinfetante Blanco Fácil é um produto concentrado no sistema Fácil. Desta forma ele vem em…",
+      "img": "img/blanco-facil.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/blanco-facil/"
+    },
+    {
+      "id": 1457,
+      "name": "Desinfetante uso geral Blanco 5L - Lavanda ou Floral",
+      "cat": "Desinfetantes",
+      "desc": "Desinfetante de Uso Geral Blanco 5 litros O Blanco 5 L é um desinfetante de uso geral , desenvolvido especialmente para…",
+      "img": "img/blanco-5l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/blanco-5l/"
+    },
+    {
+      "id": 1455,
+      "name": "Desinfetante Lavanda Blanco para uso geral - 1 Litro",
+      "cat": "Desinfetantes",
+      "desc": "Desinfetante lavanda Blanco Uso Geral 1L O Blanco 1 l é um desinfetante lavanda de uso geral , desenvolvido…",
+      "img": "img/blanco-1l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/desinfetantes/blanco-1l/"
+    },
+    {
+      "id": 1453,
+      "name": "Borrifador de Pressão - Jet 1000",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Borrifador de Pressão - Jet 1000 Em suma, o Borrifador de Pressão Prévia, conhecido também como Aplicador com Pressão…",
+      "img": "img/pulverizador-pressao-jet-1000.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/pulverizador-pressao-jet-1000/"
+    },
+    {
+      "id": 1450,
+      "name": "Tampas Perfuradas - Oleak",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Tampas perfuradas As Tampas Perfuradas foram especialmente desenvolvidas para facilitar a utilização dos produtos…",
+      "img": "img/tampas-perfuradas.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/tampas-perfuradas/"
+    },
+    {
+      "id": 1448,
+      "name": "Suportes Organizadores Para Frascos - Oleak",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Suportes Organizadores Produtos Oleak Em suma, os Suportes Organizadores de frascos Oleak são a maneira mais fácil de…",
+      "img": "img/suportes-organizadores-para-frascos.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/suportes-organizadores-para-frascos/"
+    },
+    {
+      "id": 1446,
+      "name": "Suporte Desinfetante Hospitalar Optigerm - Wipe",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Suporte Desinfetante Hospitalar Optigerm - Wipe Esse holder ou suporte é destinado ao uso do Optigerm® Wipe , que é um…",
+      "img": "img/desinfetante-hospitalar-optigerm.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/desinfetante-hospitalar-optigerm/"
+    },
+    {
+      "id": 1444,
+      "name": "Gatilho Multiaplicador Borrifador da Oleak",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Gatilho Multiaplicador Borrifador Em suma, este Gatilho Multiaplicador Borrifador foi especialmente desenvolvido para…",
+      "img": "img/gatilho-multiaplicador.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/gatilho-multiaplicador/"
+    },
+    {
+      "id": 1442,
+      "name": "Borrifador Profissional - Frasco Multiaplicador 1 litro",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Borrifador Profissional - Frasco Multiplicador Em suma, o Frasco Multiaplicador é um Borrifador Profissional, que foi…",
+      "img": "img/frasco-multi-aplicador.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/frasco-multi-aplicador/"
+    },
+    {
+      "id": 1440,
+      "name": "Dosador Pump Para Frasco De 1 L da Oleak",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Dosador Pump Para Frasco De 1L Em suma, este Dosador Pump foi especialmente desenvolvido para ser utilizado juntamente…",
+      "img": "img/dosador-frasco-1l.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/dosador-frasco-1l/"
+    },
+    {
+      "id": 1436,
+      "name": "Dispensador de Sabão para Desengraxante e Detergente",
+      "cat": "Acessórios de Limpeza",
+      "desc": "Dispensador de Sabão para Desengraxante de Mãos ou Detergentes Este Dispensador de Sabão Pump foi desenvolvido para…",
+      "img": "img/produtos-de-limpeza-acessorios-dosador-desengraxante-maos.webp",
+      "link": "https://www.higiclear.com/produto/produtos-de-limpeza/acessorios-de-limpeza/produtos-de-limpeza-acessorios-dosador-desengraxante-maos/"
+    }
+  ]
+}
