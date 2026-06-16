@@ -1,0 +1,43 @@
+name: Sincronizar Catálogo
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependências
+        run: npm ci || npm install
+
+      - name: Rodar sync do WooCommerce
+        env:
+          WC_URL: ${{ secrets.WC_URL }}
+          WC_KEY: ${{ secrets.WC_KEY }}
+          WC_SECRET: ${{ secrets.WC_SECRET }}
+        run: npm run sync
+
+      - name: Commitar alterações
+        run: |
+          git config user.name "catalogo-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add public/
+          if git diff --staged --quiet; then
+            echo "Nenhuma mudanca no catalogo."
+          else
+            git commit -m "chore: atualiza catalogo"
+            git push
+          fi
