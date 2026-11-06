@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:11:52.794Z",
+  "updated_at": "2026-11-06T14:50:03.944Z",
   "count": 321,
   "products": [
     {
@@ -256,7 +256,7 @@
       "cat": "Material Hospitalar",
       "desc": "Lençol Descartavel para Maca O Lençol Descartavel para Maca é um produto não estéril fabricado em fibras celulósicas…",
       "img": "img/lencol-descartavel-para-maca.webp",
-      "link": "https://www.higiclear.com/produto/material-hospitalar/lencol-descartavel-para-maca/"
+      "link": "https://www.higiclear.com/produto/produtos-hospitalares/lencol-descartavel-para-maca/"
     },
     {
       "id": 2628,
@@ -517,7 +517,7 @@
     {
       "id": 8818,
       "name": "Papel Toalha Bobina OptiPaper - 3235",
-      "cat": "Complementos",
+      "cat": "Papel Toalha",
       "desc": "Papel Toalha Bobina O nosso papel toalha bobina folha simples é um produto que possui grande autonomia para secagem das…",
       "img": "img/papel-toalha-bobina.webp",
       "link": "https://www.higiclear.com/produto/papel-toalha/papel-toalha-bobina/"
@@ -605,7 +605,7 @@
     {
       "id": 5855,
       "name": "Campo Operatório 45x50 - Não Estéril - Nobre",
-      "cat": "Produtos Hospitalares",
+      "cat": "Material Hospitalar",
       "desc": "Campo Operatório 45x50 Não Estéril - Nobre Em suma, o campo operatório é utilizado para absorver sangue e outros…",
       "img": "img/campo-operatorio.webp",
       "link": "https://www.higiclear.com/produto/produtos-hospitalares/campo-operatorio/"
@@ -613,7 +613,7 @@
     {
       "id": 5871,
       "name": "Máscara Cirúrgica Descartável em TNT",
-      "cat": "Produtos Hospitalares",
+      "cat": "Material Hospitalar",
       "desc": "Máscara Cirúrgica Descartável, 3 camadas Em suma, a Máscara Cirúrgica Descartável, também conhecida como máscara…",
       "img": "img/mascara-cirurgica-descartavel.webp",
       "link": "https://www.higiclear.com/produto/produtos-hospitalares/mascara-cirurgica-descartavel/"
@@ -621,7 +621,7 @@
     {
       "id": 5865,
       "name": "Compressa de Gaze - Não Estéril - Nobre Slim",
-      "cat": "Produtos Hospitalares",
+      "cat": "Material Hospitalar",
       "desc": "Compressa de Gaze Não Estéril Em suma, a Compressa de Gaze é utilizada em curativos e intervenções cirúrgicas, assim…",
       "img": "img/compressa-de-gaze.webp",
       "link": "https://www.higiclear.com/produto/produtos-hospitalares/compressa-de-gaze/"
@@ -629,7 +629,7 @@
     {
       "id": 5863,
       "name": "Capote Cirúrgico - Manga Longa - Nobre",
-      "cat": "Produtos Hospitalares",
+      "cat": "Material Hospitalar",
       "desc": "Capote Cirúrgico Em suma, o capote cirúrgico é uma vestimenta hospitalar que resguarda o corpo do profissional. Ele é…",
       "img": "img/capote-cirurgico.webp",
       "link": "https://www.higiclear.com/produto/produtos-hospitalares/capote-cirurgico/"
@@ -637,7 +637,7 @@
     {
       "id": 5857,
       "name": "Campo Operatório 23x25 - Não Estéril - Nobre",
-      "cat": "Produtos Hospitalares",
+      "cat": "Material Hospitalar",
       "desc": "Campo Operatório 23 x 25 Não Estéril Em suma o campo operatório é utilizado em um procedimento cirúrgico com a função…",
       "img": "img/campo-operatorio-nao-esteril.webp",
       "link": "https://www.higiclear.com/produto/produtos-hospitalares/campo-operatorio-nao-esteril/"
